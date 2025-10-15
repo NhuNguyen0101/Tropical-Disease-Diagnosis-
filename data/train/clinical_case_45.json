@@ -1,0 +1,13 @@
+{
+  "patient_information": "2-month-old girl from Laos, born at term, no reported comorbidities or immunosuppression. No vaccination or allergy information stated.",
+  "chief_complaint": "Irritability, dyspnoea, and grunting for 3 days.",
+  "history_of_present_illness": "The infant suddenly became unwell with irritability, dyspnoea, and grunting, with poor breastfeeding. No fever or cough reported. She was well until 3 days prior.",
+  "exposure_and_epidemiology": "From Vientiane, Laos, where the mother, a 24-year-old rice farmer, practiced prolonged post-partum food avoidance of fruits and vegetables, common in lowland Lao culture, potentially leading to thiamine deficiency.",
+  "vitals": "Temperature 37.0°C (98.6°F), pulse 140 bpm, respiratory rate 40 breath cycles per minute, blood pressure not taken.",
+  "physical_exam": "Irritable, crying, and grunting infant with central cyanosis, hepatomegaly, and oedematous extremities. Chest clear, no heart murmurs.",
+  "labs_and_diagnostics": null,
+  "differential_diagnosis": "Infantile beriberi due to thiamine deficiency, suggested by dyspnoea, poor feeding, grunting, and oedema in an endemic setting. Congenital heart disease unlikely without murmur and late onset. Respiratory diseases like bronchopneumonia or bronchiolitis unlikely without cough, wheeze, or abnormal chest findings. Meningitis unlikely without fever or bulging fontanels.",
+  "management_and_clinical_course": "Intramuscular thiamine 100 mg administered immediately. Mother received dietary counseling to improve nutrition. Symptoms improved within 48 hours, with full recovery after 1 week. Discharged with thiamine supplementation for mother and infant.",
+  "final_diagnosis": "Infantile beriberi caused by thiamine deficiency, diagnosed clinically by dyspnoea, cyanosis, hepatomegaly, and oedema in a breastfed infant of a mother with dietary restrictions. Rapid response to thiamine confirmed the diagnosis. Other causes ruled out by clinical presentation and absence of specific findings.",
+  "disease_name_short": "Infantile beriberi"
+}

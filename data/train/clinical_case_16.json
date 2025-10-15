@@ -1,0 +1,13 @@
+{
+  "patient_information": "25-year-old female Malawian primary school teacher, HIV-positive on first-line antiretroviral therapy (tenofovir, lamivudine, efavirenz) for 6 months with good adherence, CD4 count 320 cells/μL on starting ART, completed treatment for pulmonary tuberculosis 2 months ago.",
+  "chief_complaint": "Abrupt onset of fever and confusion.",
+  "history_of_present_illness": "Reported to be well at 8 a.m., confused by 10 a.m., and drowsy with high fever and convulsions on admission at 11 a.m.",
+  "exposure_and_epidemiology": "Lives in Malawi, HIV-positive, works as a primary school teacher, recently completed TB treatment.",
+  "vitals": "Glasgow Coma Scale 10/15, temperature 40°C (104°F), pulse 125 bpm, blood pressure 125/68 mmHg, oxygen saturation 93% on room air.",
+  "physical_exam": "Restless and agitated, pupils equal and reactive with photophobia, neck stiff, no rash, plantar responses down-going, Kernig’s sign positive. Chest and abdominal examinations unremarkable. Suffered a renewed seizure during examination.",
+  "labs_and_diagnostics": "Blood: WBC 10.5 x10^9/L, neutrophil count 8.9 x10^9/L, haemoglobin 8.9 g/dL, MCV 85 fL, platelets 255 x10^9/L, creatinine 106 μmol/L, random blood glucose 5.6 mmol/L. CSF: hazy, leukocytes 35 cells/μL (60% neutrophils), protein 2.6 g/L, glucose 1.2 mmol/L. Rapid antigen test for Plasmodium falciparum negative. CSF culture grew S. pneumoniae. Audiometry revealed minor hearing loss in right ear.",
+  "differential_diagnosis": "Bacterial meningitis most likely, with S. pneumoniae as common cause in Africa. Tuberculous meningitis and cryptococcal meningitis less likely due to subacute presentation, high CD4 count for cryptococcal, and recent TB treatment. Listeria monocytogenes unlikely as not pregnant. Other bacteria include group A streptococci, S. aureus, non-typhoidal salmonellae, S. typhi, E. coli, H. influenzae.",
+  "management_and_clinical_course": "In emergency department: ceftriaxone 2g IV, diazepam 10mg IV, phenobarbitone 600mg IV. Oxygen saturation improved with resuscitation. Received 10 days of IV ceftriaxone, recovered consciousness by day 3. Anticonvulsants weaned by day 3. No further neurological impairment or seizures noted.",
+  "final_diagnosis": "Acute bacterial meningitis caused by Streptococcus pneumoniae, confirmed by CSF culture. The diagnosis aligns with acute severe symptoms, high fever, decline in consciousness, convulsions, hazy CSF with neutrophilic pleocytosis, high protein, low glucose, in HIV-positive patient. Alternatives ruled out by clinical course and confirmatory culture.",
+  "disease_name_short": "Bacterial meningitis"
+}

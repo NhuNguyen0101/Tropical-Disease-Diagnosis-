@@ -1,0 +1,13 @@
+{
+  "patient_information": "41-year-old male yoga teacher from Europe with no reported comorbidities or immunosuppression. No vaccination or allergy information stated.",
+  "chief_complaint": "Itchy skin eruptions on both upper thighs for 1 week.",
+  "history_of_present_illness": "Developed three intensely itchy skin eruptions on both upper thighs just after arriving in Australia following a 3-day beach holiday on a Thai island. The itch is severe, occasionally disrupting sleep. No fever, cough, wheeze, or other symptoms reported.",
+  "exposure_and_epidemiology": "Recent 10-day trip to northern Australia for a yoga seminar and 3-day beach holiday on a Thai island. Likely exposure to sand during yoga or beach activities. No specific sick contacts mentioned.",
+  "vitals": "Not reported, afebrile.",
+  "physical_exam": "Three reddish, serpiginous tracks, about 2 mm wide, on both upper thighs. Inguinal lymph nodes not enlarged. Chest clear. Rest of examination unremarkable.",
+  "labs_and_diagnostics": null,
+  "differential_diagnosis": "Cutaneous larva migrans (CLM) due to zoonotic hookworms, most likely given serpiginous tracks and travel history. Larva currens from Strongyloides stercoralis less likely due to slower track progression. Gnathostoma or Fasciola species and migratory myiasis considered but less common.",
+  "management_and_clinical_course": "Treated with oral ivermectin 200 μg/kg single dose. Itching subsided within 3 days, and tracks resolved within 2 weeks. No complications reported.",
+  "final_diagnosis": "Cutaneous larva migrans caused by zoonotic hookworm larvae, diagnosed clinically by characteristic serpiginous tracks and travel history to tropical beach areas. Rapid resolution with ivermectin supports the diagnosis. Strongyloides and other causes ruled out by clinical presentation and response.",
+  "disease_name_short": "Cutaneous larva migrans"
+}

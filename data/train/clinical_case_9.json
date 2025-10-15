@@ -1,0 +1,13 @@
+{
+  "patient_information": "52-year-old male with history of type 2 diabetes mellitus and poorly controlled hypertension. No vaccination or allergy information stated.",
+  "chief_complaint": "Abdominal pain and vomiting.",
+  "history_of_present_illness": "4 days of retro-orbital headache, lethargy, myalgia and fevers that had begun to improve over the last 24 hours.",
+  "exposure_and_epidemiology": "Lives in an urban area in Ho Chi Minh City, Vietnam. Last travel outside the city was several years ago. No specific exposures to rodents or other risks mentioned.",
+  "vitals": "Glasgow Coma Score 14/15, temperature 36.5°C, blood pressure 105/90 mmHg, heart rate 120 bpm, respiratory rate 28 breaths per minute, peripheral oxygen saturation 93% on air.",
+  "physical_exam": "Drowsy but rousable, weak radial pulse, normal heart sounds. Dull percussion note and reduced breath sounds at both lung bases. Mild abdominal distension with shifting dullness and tender 3cm liver edge. Skin examination unremarkable.",
+  "labs_and_diagnostics": "Haemoglobin 14.6 g/dL, haematocrit 53.9%, platelets 58 x10^9/L, white cell count 2.1 x10^9/L, neutrophils 0.9 x10^9/L, lymphocytes 0.8 x10^9/L, C-reactive protein 20 mg/L, urea 7.8 mmol/L, creatinine 114 μmol/L, alanine aminotransferase 812 U/L, alkaline phosphatase 260 U/L, total bilirubin 18 μmol/L, lactate 3.5 mmol/L. Later haematocrit rose to 55.1%. Ultrasound showed moderate bilateral pleural effusions and ascites, mild hepatomegaly, and thickened gallbladder wall. Reverse transcriptase PCR and positive NS1 ELISA confirmed dengue.",
+  "differential_diagnosis": "Dengue with severe disease and compensated shock, supported by clinical picture in high-endemic area. Rickettsial infections like scrub typhus, even without eschar. Malaria less likely due to no haemolysis and low risk in urban Vietnam. Leptospirosis possible but less likely without rodent exposure. Melioidosis in diabetic from South East Asia with possible sepsis.",
+  "management_and_clinical_course": "Admitted to high-dependency unit for close observation and supportive care. Infused with Ringer’s lactate at 10 mL/kg over 1 hour, then increased to 15 mL/kg/hr due to tachycardia and oliguria, then reduced stepwise. Repeat assessments every 2 hours, haematocrit every 6 hours. Discharged after 3 days with complete recovery.",
+  "final_diagnosis": "Dengue caused by dengue virus, confirmed by reverse transcriptase PCR and positive NS1 ELISA. The diagnosis aligns with febrile illness progressing to shock, vascular leak, thrombocytopenia, hepatic impairment, and endemic setting. Alternatives ruled out by confirmatory testing and clinical pattern.",
+  "disease_name_short": "Dengue"
+}

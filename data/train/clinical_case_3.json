@@ -1,0 +1,13 @@
+{
+  "patient_information": "26-year-old female Malawian businesswoman selling vegetables, living in an urban high-density area. She is a widow with three healthy children; four other children died as toddlers. Her husband died a year ago of 'high fever'. Past medical history is unremarkable.",
+  "chief_complaint": "Headache, confusion, and unilateral ptosis.",
+  "history_of_present_illness": "The patient has been unwell for at least 1 week with an insidious onset headache. She has been confused for 2 days, and relatives noticed left eyelid drooping one day before presentation.",
+  "exposure_and_epidemiology": "Lives in an urban high-density area in Malawi. No specific exposures, travel, animal, water, food risks, or sick contacts reported. Occupation as a businesswoman selling vegetables.",
+  "vitals": "Temperature 38.4°C (101.1°F), blood pressure 115/75 mmHg, heart rate 86 bpm, respiratory rate 18 cycles per minute, Glasgow Coma Scale 14/15.",
+  "physical_exam": "Seriously unwell. No neck stiffness, chest clear. Complete ptosis on the left, left eye in 'down and out' position on primary gaze. Remainder of neurological examination normal.",
+  "labs_and_diagnostics": "Blood: WBC 3.2 x10^9/L, Hb 10.2 g/dL, platelets 155 x10^9/L, serum glucose 4.0 mmol/L, thick film negative for malaria and trypanosomes. CSF: white cell count 54 /μL, protein 3.0 g/L, glucose 1.3 mmol/L (paired serum glucose 4.0 mmol/L), opening pressure 32 cmH2O.",
+  "differential_diagnosis": "The main differentials are bacterial meningitis (Streptococcus pneumoniae, Neisseria meningitidis), tuberculous meningitis (Mycobacterium tuberculosis), and cryptococcal meningitis (Cryptococcus neoformans). Infectious encephalitis is less likely due to cranial nerve involvement and CSF findings. Cerebral malaria is uncommon in semi-immune adults and cranial nerve palsies are unusual.",
+  "management_and_clinical_course": "The patient was started on ceftriaxone 2g bid, fluconazole 1200mg od (local protocol for cryptococcal meningitis), and treatment for presumptive TB-meningitis. Gram-stain, bacterial culture, ultrasensitive PCR for M. tuberculosis, CrAG testing on CSF and serum, India ink stain, fungal culture, and HIV-serology were recommended.",
+  "final_diagnosis": null,
+  "disease_name_short": null
+}

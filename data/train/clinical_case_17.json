@@ -1,0 +1,13 @@
+{
+  "patient_information": "34-year-old male from Phuket, Thailand, HIV-positive with CD4 count 2 cells/μL.",
+  "chief_complaint": "Fever for 2 weeks and papular rash.",
+  "history_of_present_illness": "2-week history of fever, papular rash affecting whole body particularly face and trunk, weight loss 7kg in last 3 months. Arrived in Germany 3 days ago to visit friends.",
+  "exposure_and_epidemiology": "Lives in Thailand, endemic for talaromycosis, arrived in Germany 3 days previously.",
+  "vitals": "Temperature 38.2°C (100.76°F).",
+  "physical_exam": "Pale conjunctivae, very wasted with BMI 14 kg/m², generalized non-pruritic umbilicated papules predominantly on face and trunk, generalized lymphadenopathy with swollen nodes in left supraclavicular, inguinal and axillary regions, spleen palpable two fingers below left costal margin, liver span 15 cm in midclavicular line.",
+  "labs_and_diagnostics": "WBC 2.1 x10^9/L, haemoglobin 9.8 g/dL, platelets 110 x10^9/L, C-reactive protein 150 mg/L. HIV test positive, CD4 count 2/μL. Histopathology of lymph node biopsy showed multiple yeast-like structures, no acid-fast bacilli. Blood culture and cultures from skin biopsy and lymph node grew Talaromyces (Penicillium) marneffei. Six months later, cervical lymphadenopathy recurrence, infection with atypical mycobacteria.",
+  "differential_diagnosis": "HIV infection warranted testing due to fever, weight loss, lymphadenopathy, pancytopenia. Infectious: disseminated tuberculosis, atypical mycobacteria, melioidosis, Bartonella (bacillary angiomatosis), cryptococcosis, histoplasmosis, talaromycosis, visceral leishmaniasis. Viral: CMV, EBV. Neoplasms: lymphomas, Castleman’s disease. Talaromycosis supported by umbilicated papules, endemic area.",
+  "management_and_clinical_course": "2-week course of intravenous liposomal amphotericin B followed by oral itraconazole. On 3-week follow-up, afebrile and gaining weight. Antiretroviral therapy initiated. Six months later, recurrence of cervical lymphadenopathy diagnosed as atypical mycobacterial infection interpreted as unmasking IRIS.",
+  "final_diagnosis": "Talaromycosis caused by Talaromyces marneffei, confirmed by cultures from blood, skin biopsy, and lymph node, and histopathology showing yeast-like structures. The diagnosis aligns with fever, wasting, hepatosplenomegaly, lymphadenopathy, umbilicated papular rash, pancytopenia, in HIV-positive patient from endemic area. Alternatives ruled out by confirmatory microbiology.",
+  "disease_name_short": "Talaromycosis"
+}

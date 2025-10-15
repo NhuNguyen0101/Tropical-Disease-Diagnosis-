@@ -1,0 +1,13 @@
+{
+  "patient_information": "24-year-old Dutch female yoga instructor, strict vegan for 8 years, no reported comorbidities or immunosuppression. No vaccination or allergy information stated.",
+  "chief_complaint": "Strange sensations in the right side of her body for one episode.",
+  "history_of_present_illness": "The episode started with 'pins and needles' in the right side of her face, marched to her right arm, then right leg, lasting about 2 minutes. A similar episode occurred several months ago without medical consultation. Four years prior, she backpacked for 2 years through South America (Ecuador, Peru, Argentina) and South-east Asia (Thailand, Laos, Cambodia), staying in hostels or with locals as an eco-traveller.",
+  "exposure_and_epidemiology": "Extensive travel in endemic areas including South America and South-east Asia. Diet consisted of fruits, vegetables, nuts, and rice from local vendors, no animal products. No specific sick contacts reported.",
+  "vitals": "Afebrile, otherwise normal vital signs.",
+  "physical_exam": "Looks well, neurological examination completely unremarkable, rest of physical examination normal.",
+  "labs_and_diagnostics": "Routine blood investigations including differential count and C-reactive protein normal. CSF examination unremarkable. MRI brain with gadolinium enhancement shows multiple cortical and subcortical cystic lesions in both hemispheres. Serology positive for Taenia solium cysticercosis.",
+  "differential_diagnosis": "Neurocysticercosis suggested by travel history and cystic lesions on MRI. Multiple sclerosis considered due to paraesthesias but less likely with normal CSF and travel context. Cerebral abscess or metastasis unlikely with no inflammation or mass effect.",
+  "management_and_clinical_course": "Started on albendazole 400 mg twice daily for 28 days with corticosteroids to reduce inflammation. Antiepileptic prophylaxis with levetiracetam 500 mg twice daily. Follow-up MRI after 3 months showed resolution of most cysts. No further episodes reported.",
+  "final_diagnosis": "Neurocysticercosis caused by Taenia solium, confirmed by MRI findings of multiple cystic lesions and positive serology, consistent with travel in endemic areas. The diagnosis fits the episodic neurological symptoms. Multiple sclerosis ruled out by normal CSF and travel history.",
+  "disease_name_short": "Neurocysticercosis"
+}

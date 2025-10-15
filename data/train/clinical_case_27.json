@@ -1,0 +1,13 @@
+{
+  "patient_information": "16-year-old Sri Lankan boy, attending school, no comorbidities or immunosuppression reported.",
+  "chief_complaint": "Fever, frontal headache, severe body aches for 2 days, vomited two to three times, no urine for previous 12 hours.",
+  "history_of_present_illness": "Fever, frontal headache, severe body aches for 2 days. Vomited two to three times during illness. No urine for previous 12 hours. No cough, coryza or shortness of breath. Attending school until illness.",
+  "exposure_and_epidemiology": "Fishing in urban water stream 5 days before falling ill. Endemic area for leptospirosis.",
+  "vitals": "Temperature 38.3°C (100.9°F), pulse 100 bpm (low volume), blood pressure 90/60 mmHg.",
+  "physical_exam": "Ill and drowsy, jaundiced, subconjunctival haemorrhages. No neck stiffness, severe muscle tenderness mainly abdominal wall and calves, difficult to walk. No lymphadenopathy. Heart sounds clear, lungs normal. Liver palpable 4 cm below right costal margin and tender. Spleen not palpable. Mild bilateral renal angle tenderness. Neurological examination normal.",
+  "labs_and_diagnostics": "WBC 5.7 x10^9/L (68% neutrophils, 31% lymphocytes), haemoglobin 14.8 g/dL, platelets 96 x10^9/L, AST 64 IU/L, ALT 58 IU/L, ALP 246 IU/L, serum bilirubin total 77 μmol/L, direct 54.7 μmol/L, blood urea nitrogen 20.7 μmol/L, serum creatinine 212.2 μmol/L, C-reactive protein 48 mg/L. Urine microscopy: 20 red blood cells per high-power field, proteins +, granular casts +. Chest radiograph normal. ECG shows sinus tachycardia.",
+  "differential_diagnosis": "Leptospirosis most likely given acute febrile illness with jaundice, renal failure, subconjunctival haemorrhage, water exposure. Scrub typhus with fever, hepatomegaly, renal failure, possible lymphadenopathy and eschar. Hantavirus with haemorrhagic fever and renal syndrome, rodent exposure. Dengue haemorrhagic fever with fever, myalgias, thrombocytopenia, haemorrhages, but AKI and jaundice uncommon.",
+  "management_and_clinical_course": "Empirical benzylpenicillin started. Despite rehydration developed acute renal failure requiring haemodialysis. Developed myocarditis and atrial fibrillation, tolerated further HD. Gradually recovered over 10 days with intensive care management.",
+  "final_diagnosis": "Severe leptospirosis, confirmed potentially by serology or PCR. Diagnosis aligns with fever, jaundice, renal failure, haemorrhage, muscle tenderness, hepatomegaly, water exposure in endemic area. Alternatives ruled out by clinical pattern.",
+  "disease_name_short": "Leptospirosis"
+}

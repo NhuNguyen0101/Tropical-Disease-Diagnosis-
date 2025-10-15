@@ -1,0 +1,13 @@
+{
+  "patient_information": "26-year-old female German student with no reported comorbidities or immunosuppression.",
+  "chief_complaint": "Localized swelling on the left leg.",
+  "history_of_present_illness": "Swelling developed slowly over the past 3 weeks. It is itchy but not painful. No history of fever or arthropod bites.",
+  "exposure_and_epidemiology": "Recently returned from a 6-week trip to Ghana as a backpacker. Tropical climate and potential low hygiene standards.",
+  "vitals": "Afebrile; other vital signs not reported.",
+  "physical_exam": "Localized swelling on the left leg about 1.5 cm in diameter, slightly hyperaemic skin surrounding, covered by a blackish scab. No lymphadenopathy. Rest of physical examination normal.",
+  "labs_and_diagnostics": null,
+  "differential_diagnosis": "Rickettsial disease or cutaneous anthrax less likely due to absence of systemic symptoms. Spider bite unlikely due to slow growth. Localized bacterial skin infections like folliculitis, furuncles, carbuncles, or abscesses possible due to tropical climate and hygiene. Myiasis most likely given slow growth, no lymphadenopathy, no systemic symptoms, and localized itch.",
+  "management_and_clinical_course": "Scab removed revealing pulsating whitish matter with transparent fluid. Covered with white petroleum jelly and bandaged. Returned 2 days later, maggot of Tumbu fly easily removed with forceps. Lesion clean, no further treatment required.",
+  "final_diagnosis": "Cutaneous furuncular myiasis caused by Cordylobia anthropophaga (Tumbu fly), diagnosed clinically by appearance of pulsating larva after scab removal and identification of extracted maggot. Aligns with travel to sub-Saharan Africa and typical presentation. Alternatives ruled out by lack of systemic symptoms and confirmatory extraction.",
+  "disease_name_short": "Myiasis"
+}

@@ -1,0 +1,13 @@
+{
+  "patient_information": "32-year-old previously fit woman of African descent, born in Europe.",
+  "chief_complaint": "Fever, jaundice, and confusion.",
+  "history_of_present_illness": "Travelled to rural Jos in Nigeria to visit relatives. 18 days after return developed fever, 3 days later very unwell with abnormal behaviour.",
+  "exposure_and_epidemiology": "Recent travel to rural Nigeria, visiting friends and relatives, high risk for not taking antimalarial prophylaxis. Area known for viral haemorrhagic fever like Lassa.",
+  "vitals": "Temperature 37.5°C (99.5°F), Glasgow Coma Scale 14/15.",
+  "physical_exam": "Mildly jaundiced, confused. No rash, no palpable lymph nodes, throat and sclerae not injected. Fine crepitations at lung bases.",
+  "labs_and_diagnostics": "Laboratory refused tests due to VHF risk. Later: Plasmodium falciparum parasite count 18%, plasma creatinine 430 μmol/L. Chest radiography suggestive of ARDS.",
+  "differential_diagnosis": "Severe falciparum malaria most common cause of fever and jaundice or confusion in West Africa. Acute viral hepatitis less likely due to rapid fulminant course. Typhoid fever, leptospirosis, ascending cholangitis, advanced HIV with Gram-negative sepsis. VHF like Lassa possible but incubation period on outer limit, absence of injected sclerae or rash against.",
+  "management_and_clinical_course": "Malaria blood film positive for P. falciparum 18%. Treated with intravenous artesunate, parasite count dropped to 5%. Lapsed into deep coma, renal function deteriorated, needed haemofiltration. After parasites cleared on day 5, consciousness improved but developed laboured breathing, ARDS, required prolonged respiratory support. Eventually full recovery.",
+  "final_diagnosis": "Severe falciparum malaria caused by Plasmodium falciparum, confirmed by blood film. Diagnosis aligns with fever, jaundice, confusion, high parasitaemia, acute kidney injury, ARDS, recent travel to endemic area. VHF ruled out by positive malaria test.",
+  "disease_name_short": "Severe malaria"
+}

@@ -1,0 +1,13 @@
+{
+  "patient_information": "40-year-old male from Togo, always lived in a village in the savannah near a fast-flowing river.",
+  "chief_complaint": "Changes in both eyes over 4 years, painless bumps under skin over 2 decades, intense itching of skin.",
+  "history_of_present_illness": "Changes in eyes over past 4 years, no visual disturbances, worried because adults in village turn blind with similar eye changes. Painless subcutaneous bumps developed over past two decades. Intense itching keeping him awake at night. Small biting flies common near the river.",
+  "exposure_and_epidemiology": "Lives in village in savannah near fast-flowing river in Togo, endemic for onchocerciasis, exposed to Simulium blackflies.",
+  "vitals": null,
+  "physical_exam": "Opacities in cornea of both eyes (keratitis semilunaris). Skin atrophic in some areas with loss of elasticity, multiple scratch marks. Subcutaneous nodules palpable over bony prominences like ribs, iliac crest, femoral trochanters, head; firm, non-tender, 1-3 cm diameter.",
+  "labs_and_diagnostics": "Skin snips may show microfilariae of Onchocerca volvulus. Slit-lamp may reveal microfilariae in anterior chamber and cornea. Nodullectomy may show adult O. volvulus. Serological tests detect IgG4 to OvAg and Ov16 antigen.",
+  "differential_diagnosis": "Onchocerciasis most likely given triad of ocular changes, itchy dermatitis, subcutaneous nodules, river exposure. Subcutaneous nodules resemble lipomas, cysticerci of Taenia solium. Pruritic dermatitis may be scabies, papular pruritic eruptions in HIV, Mansonella streptocerca, yaws, leprosy, mycotic infections, eczema.",
+  "management_and_clinical_course": "Treated with ivermectin 150 μg/kg STAT, repeated after 3 months and 1 year, plus doxycycline 100 mg/d for 6 weeks.",
+  "final_diagnosis": "Onchocerciasis caused by Onchocerca volvulus, diagnosed clinically by corneal opacities, subcutaneous nodules, dermatitis, in endemic setting. Confirmed potentially by skin snips showing microfilariae. Alternatives ruled out by typical presentation and epidemiology.",
+  "disease_name_short": "Onchocerciasis"
+}

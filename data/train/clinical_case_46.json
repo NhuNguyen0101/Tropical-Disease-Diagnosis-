@@ -1,0 +1,13 @@
+{
+  "patient_information": "45-year-old Sri Lankan man, no reported comorbidities except daily consumption of locally brewed alcohol ('toddy') for 10–15 years. No vaccination or allergy information stated.",
+  "chief_complaint": "Fever, chills, headache, body aches, and severe right hypochondrial pain for 1 week.",
+  "history_of_present_illness": "The patient developed a dry cough in the past few days, vomited twice, and lost appetite. The abdominal pain is constant, dull, radiates to the right shoulder, and worsens with coughing or resting on the right side. He was well prior to this illness.",
+  "exposure_and_epidemiology": "From Sri Lanka, with history of chronic alcohol consumption. No specific travel, vector, animal, water/food risks, or sick contacts mentioned.",
+  "vitals": "Temperature 38.3°C (100.8°F), blood pressure 100/80 mmHg, pulse 102 bpm, respiratory rate 24 breath cycles per minute.",
+  "physical_exam": "Generally ill, mildly dehydrated, in pain. No jaundice, pallor, or lymphadenopathy. Tender hepatomegaly, most prominent over 6th to 9th intercostal spaces in right mid-axillary line. Spleen not enlarged. Few inspiratory crackles over right lung base. Normal cardiovascular and nervous system.",
+  "labs_and_diagnostics": "WBC 14.7 ×10^9/L, haemoglobin 12.3 g/dL, platelets 224 ×10^9/L, AST 54 U/L, ALT 38 U/L, ALP 446 U/L, total bilirubin 10.3 μmol/L, direct bilirubin 1.5 μmol/L, blood urea nitrogen 7 mmol/L, serum creatinine 124 μmol/L, C-reactive protein 48 mg/L. Chest radiograph showed elevated right hemidiaphragm and patchy shadows in right lower zone. Ultrasound confirmed liver abscess. Aspirate culture grew Klebsiella pneumoniae.",
+  "differential_diagnosis": "Amoebic liver abscess due to Entamoeba histolytica, suggested by tender hepatomegaly and endemic setting. Pyogenic liver abscess possible, supported by fever and leukocytosis. Hepatocellular carcinoma or tuberculosis less likely without chronic liver disease or systemic signs.",
+  "management_and_clinical_course": "Started on ceftriaxone and metronidazole. Ultrasound-guided aspiration performed, culture confirmed Klebsiella pneumoniae. Antibiotics adjusted to ceftriaxone for 4 weeks. Fever resolved, pain improved, discharged after 2 weeks with oral antibiotics for 2 more weeks. Follow-up showed full recovery.",
+  "final_diagnosis": "Pyogenic liver abscess caused by Klebsiella pneumoniae, confirmed by aspirate culture, supported by fever, tender hepatomegaly, and radiologic findings. Amoebic abscess ruled out by culture and lack of typical amoebic serology. Other causes unlikely due to acute presentation and response.",
+  "disease_name_short": "Pyogenic liver abscess"
+}

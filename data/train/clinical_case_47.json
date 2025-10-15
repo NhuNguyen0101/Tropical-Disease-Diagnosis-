@@ -1,0 +1,13 @@
+{
+  "patient_information": "32-year-old Malawian man, HIV-positive, on antiretroviral therapy and co-trimoxazole prophylaxis for 2 months, with prior treatment for sputum smear-negative pulmonary tuberculosis 12 years ago. CD4 count 95 cells/μL. No other comorbidities reported.",
+  "chief_complaint": "Productive cough, chest pain, and painfully swollen neck for 6 weeks.",
+  "history_of_present_illness": "Associated with weight loss, fevers, and night sweats. No other symptoms reported. Despite starting TB repeat treatment, symptoms persisted after 3 weeks with worsening neck swelling and fluctuant glands.",
+  "exposure_and_epidemiology": "From Malawi, a high HIV-prevalence area. No specific travel, vector, animal, water/food risks, or sick contacts mentioned.",
+  "vitals": "Temperature 39.2°C (102.56°F), pulse 112 bpm, respiratory rate 28 breath cycles per minute, normal blood pressure.",
+  "physical_exam": "Moderately ill, pale, sweating. Large, matted, fluctuant lymph glands in the neck. Rest of examination unremarkable.",
+  "labs_and_diagnostics": "WBC 14.3 ×10^9/L, haemoglobin 6.3 g/dL, MCV 66 fL, platelets 246 ×10^9/L. Three sputum samples negative for AFB. Fine-needle aspiration of neck gland yielded purulent material, microscopy 2+ positive for AFB. No growth on blood culture. GeneXpert MTB/RIF on lymph node aspirate detected Mycobacterium tuberculosis, rifampicin-sensitive.",
+  "differential_diagnosis": "Tuberculous lymphadenitis due to Mycobacterium tuberculosis, supported by HIV status and AFB-positive aspirate. Non-tuberculous mycobacterial infection possible but less likely in this context. Lymphoma considered due to lymphadenopathy and HIV but less likely with AFB findings.",
+  "management_and_clinical_course": "Continued rifampicin, isoniazid, pyrazinamide, ethambutol, and streptomycin, with ART and co-trimoxazole. Surgical drainage of fluctuant glands performed. Prednisolone added to reduce immune reconstitution inflammatory syndrome (IRIS). Symptoms improved after 6 weeks, lymphadenopathy resolved after 4 months.",
+  "final_diagnosis": "Tuberculous lymphadenitis caused by Mycobacterium tuberculosis, confirmed by AFB-positive fine-needle aspiration and GeneXpert MTB/RIF, in an HIV-positive patient with low CD4 count. Lymphoma and non-tuberculous mycobacteria ruled out by confirmatory tests and response to treatment.",
+  "disease_name_short": "Tuberculous lymphadenitis"
+}

@@ -1,0 +1,13 @@
+{
+  "patient_information": "43-year-old German male, past medical history unremarkable.",
+  "chief_complaint": "Fever for 3 days.",
+  "history_of_present_illness": "Recurrent fever for the past 3 days, temperature up to 39.8°C, headache, diarrhoea. Self-treatment for malaria with atovaquone/proguanil from 27 April to 29 April due to fever.",
+  "exposure_and_epidemiology": "Travelled to Mozambique from 16 April to 30 April without malaria chemoprophylaxis, freshwater contact in a small lake near Maputo. Travelled to Chile from 30 April to 17 May.",
+  "vitals": "Temperature 39.2°C (102.6°F).",
+  "physical_exam": "Febrile, rest of physical examination normal, no rash, no hepatomegaly, no splenomegaly, no lymphadenopathy.",
+  "labs_and_diagnostics": "WBC 9.0 x10^9/L, eosinophils 2.1 x10^9/L, LDH 422 U/L, creatinine 88.4 μmol/L, AST 106 U/L, ALT 179 U/L, GGT 186 U/L, C-reactive protein 57.9 mg/L. Electrocardiogram normal. Chest radiography and CT show nodular lesions 2-5 mm in periphery of lower lung zones bilaterally. Thick films for Plasmodium negative. Microscopy of stool and urine for Schistosoma eggs negative three times. Initial antischistosomal antibodies negative, then positive after 4 weeks (IFA 1:1280, cercarial- and egg-ELISA positive). S. mansoni ova found in stool.",
+  "differential_diagnosis": "Malaria must be excluded due to travel without prophylaxis. Typhoid fever and amoebic liver abscess for pyrexia in returned traveller. Viral hepatitis including hepatitis E, EBV, CMV for elevated liver enzymes. Leptospirosis, rickettsioses, Q-fever, brucellosis, secondary syphilis, relapsing fever for fever. Acute schistosomiasis (Katayama syndrome) or acute fascioliasis for eosinophilia, fever, freshwater contact.",
+  "management_and_clinical_course": "Diagnosis of schistosomiasis established, treated with praziquantel.",
+  "final_diagnosis": "Acute schistosomiasis (Katayama syndrome) caused by Schistosoma mansoni, confirmed by positive antischistosomal antibodies and S. mansoni ova in stool. Diagnosis aligns with fever, eosinophilia, pulmonary nodules, freshwater exposure in endemic area. Alternatives ruled out by negative malaria tests and confirmatory findings.",
+  "disease_name_short": "Acute schistosomiasis"
+}

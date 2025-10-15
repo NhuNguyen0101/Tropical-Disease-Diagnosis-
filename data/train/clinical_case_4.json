@@ -1,0 +1,13 @@
+{
+  "patient_information": "4-year-old female, previously healthy, no reported comorbidities or immunosuppression.",
+  "chief_complaint": "Coma following seizure.",
+  "history_of_present_illness": "The patient was well until yesterday with a bad headache in the early afternoon and shaking chills in the evening. At 5 a.m. today, she had a seizure lasting about 10 minutes and has not awoken since. No recent head trauma or other known reason for illness.",
+  "exposure_and_epidemiology": "Lives in rural eastern Uganda during the rainy season, where malaria is common. No specific animal, water, food risks, or sick contacts reported, but frequent mosquito bites implied in high transmission area.",
+  "vitals": "Temperature 38.7°C (101.7°F), pulse 150 bpm, respiratory rate 36 cycles per minute, blood pressure 98/40 mmHg, Blantyre Coma Scale 1/5.",
+  "physical_exam": "Nasal flaring with respirations, no neck stiffness, no jaundice, normal capillary refill, pupils 2mm and reactive, normal extraocular movements, no papilloedema, decerebrate posturing with stimulation, gallop rhythm on cardiac exam, liver palpable 2cm below right costal margin, spleen 4cm below left costal margin.",
+  "labs_and_diagnostics": "Hematocrit 17.6%, platelet count 28 x10^9/L, malaria RDT positive, blood glucose normal. CSF clear and acellular, normal opening pressure. EEG showed diffuse slowing but no epileptiform activity. Ophthalmoscopy revealed white-centred haemorrhages in both eyes.",
+  "differential_diagnosis": "Cerebral malaria versus acute bacterial meningitis, viral encephalitis, intoxication (organophosphates), metabolic abnormalities (hypoglycaemia, renal/hepatic failure), and non-convulsive status epilepticus. Cerebral malaria supported by positive RDT, retinopathy, and endemic setting. Meningitis less likely with clear CSF. Post-ictal state unlikely due to duration.",
+  "management_and_clinical_course": "Artesunate 2.4mg/kg IV administered in A&E, repeated at 12 and 24 hours then once daily. Admitted to high-dependency unit for vital signs and glucose monitoring. One short generalized seizure 12 hours after admission resolved spontaneously. Blantyre Coma Score improved to 4/5 at 40 hours. Discharged on day 5 with neurology follow-up.",
+  "final_diagnosis": "Retinopathy-positive cerebral malaria due to Plasmodium falciparum, confirmed by positive malaria RDT, malarial retinopathy on ophthalmoscopy, and exclusion of meningitis via lumbar puncture. The diagnosis aligns with coma, parasitaemia, retinopathy, and no alternative findings. Other differentials were ruled out by negative CSF and EEG.",
+  "disease_name_short": "Cerebral malaria"
+}

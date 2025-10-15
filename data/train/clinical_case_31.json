@@ -1,0 +1,13 @@
+{
+  "patient_information": "6-year-old boy, known to be HIV-positive but not yet on antiretroviral therapy. No other comorbidities or immunosuppression details stated. No vaccination or allergy information provided.",
+  "chief_complaint": "High fever, dyspnoea, and dry cough for 3 days.",
+  "history_of_present_illness": "The boy was admitted the night before with high fever, dyspnoea, and a dry cough starting 3 days prior. He was started on presumptive antimalarial treatment, with malaria smear results pending.",
+  "exposure_and_epidemiology": "The patient is from Malawi, a high HIV-prevalence area in sub-Saharan Africa. No specific vector, animal, water/food risks, travel, or sick contacts reported.",
+  "vitals": "Temperature 39.8°C (103.6°F), laboured breathing, Blantyre coma score 3/5.",
+  "physical_exam": "Sick child with coryza and bilateral conjunctivitis. Fine maculopapular rash behind both ears and on the forehead. Bilateral axillary lymphadenopathy.",
+  "labs_and_diagnostics": "Malaria smear negative. No other laboratory data reported.",
+  "differential_diagnosis": "Malaria, typhoid fever, atypical pneumonia, various viral infections including measles, rubella, enterovirus infection, infectious mononucleosis. Bacterial infections such as scarlet fever, meningococcal disease, and rickettsial infections. Measles suspected due to the three 'Cs' (cough, coryza, conjunctivitis) and rash.",
+  "management_and_clinical_course": "Intravenous fluids and vitamin A were given. Malaria treatment was stopped as smears were negative. Within 3 days, the rash covered the trunk and skin scaling started. Developed severe pneumonia and received antibiotic treatment. After recovery, antiretroviral therapy was started in the outpatient clinic.",
+  "final_diagnosis": "Measles caused by paramyxovirus, diagnosed clinically by fever, cough, coryza, conjunctivitis, and maculopapular rash in an HIV-positive child. The diagnosis fits the prodromal stage and rash evolution. Other viral and bacterial infections were less likely given the specific presentation and course.",
+  "disease_name_short": "Measles"
+}

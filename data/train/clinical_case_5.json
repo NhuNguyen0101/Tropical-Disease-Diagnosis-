@@ -1,0 +1,13 @@
+{
+  "patient_information": "4-year-old male, unimmunized, from a very poor family. No comorbidities reported but chronically malnourished.",
+  "chief_complaint": "Necrotizing lesion on the lip and cheek for 3 days.",
+  "history_of_present_illness": "Family noticed dark sore on cheek 3 days ago, bad breath, not eating, listless. Lesion progressed quickly from sore to eating through cheek. Had fever and rash 2 months ago and recovered.",
+  "exposure_and_epidemiology": "Lives in remote district in Laos, extreme poverty, malnutrition, poor oral hygiene, recent measles infection implied. No specific animal or water/food risks reported beyond poverty context.",
+  "vitals": "Not reported.",
+  "physical_exam": "Appears small and quiet, stunted and thin. Gangrenous lesion destroyed part of upper and lower lips and cheek, exposing teeth.",
+  "labs_and_diagnostics": "No diagnostic laboratory tests mentioned as diagnosis is clinical.",
+  "differential_diagnosis": "Noma supported by rapid tissue destruction in malnourished child post-measles. Tooth abscess and cellulitis possible earlier but progression too rapid. Oral cancer, syphilis, yaws unlikely in young child. Cutaneous or mucocutaneous leishmaniasis unlikely due to pace and non-endemic in Laos.",
+  "management_and_clinical_course": "Treated with penicillin and metronidazole, nutritional support with local foods, treat co-infections like malaria or parasites. Necrotic tissue removed, physiotherapy to prevent contractures. Healed with contractures, disfigurement, salivary incontinence. At age 9, two surgeries improved appearance and corrected incontinence.",
+  "final_diagnosis": "Noma, an opportunistic infection in malnourished child, diagnosed clinically by rapid gangrenous facial lesion. Aligns with poverty, malnutrition, recent measles, and typical presentation. Alternatives ruled out by age, rapidity, and context.",
+  "disease_name_short": "Noma"
+}

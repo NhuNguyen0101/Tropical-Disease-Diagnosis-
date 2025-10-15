@@ -1,0 +1,13 @@
+{
+  "patient_information": "55-year-old indigenous Australian female with no reported comorbidities or immunosuppression.",
+  "chief_complaint": "Widespread exfoliating rash and signs of sepsis.",
+  "history_of_present_illness": "Increasingly withdrawn and not getting out of the house much.",
+  "exposure_and_epidemiology": "Lives in a remote indigenous community in tropical northern Australia, in a crowded house. Endemic scabies in the community.",
+  "vitals": "Temperature 39.5°C (103.1°F), heart rate 110 bpm, respiratory rate 28 breaths per minute, blood pressure 85 mmHg systolic, oxygen saturation 92% on room air.",
+  "physical_exam": "Widespread exfoliative rash involving all limbs, especially armpits, buttocks, and thighs. Many flakes of skin on mattress, fissures over wrists and knees. Pale, clammy, poorly responsive.",
+  "labs_and_diagnostics": "Blood cultures grew Staphylococcus aureus (community-acquired MRSA) resistant to flucloxacillin and clindamycin, sensitive to gentamicin, co-trimoxazole, and doxycycline. Skin scrapings showed multiple scabies mites and eggs under microscopy. Transthoracic echocardiogram showed no features of endocarditis.",
+  "differential_diagnosis": "Crusted scabies with secondary sepsis from S. aureus or S. pyogenes bacteraemia, or possibly Gram-negative or polymicrobial. Supported by exfoliating rash and endemic setting. Other differentials like psoriasis, tinea corporis, skin malignancies, nutritional deficiencies, onchocerciasis, lepromatous leprosy, secondary syphilis less likely.",
+  "management_and_clinical_course": "Oxygen, IV fluids (1 litre normal saline over 30 minutes), IV ceftriaxone 2g and gentamicin 320mg. Evacuated to regional hospital. Treated with ivermectin (200 μg/kg/dose) on days 0,1,7,8,14; topical benzyl benzoate 25% every second day for first week, then twice weekly for second week; keratolytic cream on alternate days. IV vancomycin for 2 weeks. Blood cultures negative after 48 hours, afebrile and improved. Discharged after 3 weeks with no residual lesions. Family treated with topical permethrin, children with benzathine penicillin. Household decontaminated.",
+  "final_diagnosis": "Crusted scabies caused by Sarcoptes scabiei with secondary Staphylococcus aureus bacteraemia, confirmed by skin scrapings showing mites and eggs, and positive blood cultures. Diagnosis aligns with hyperinfestation in endemic area, sepsis through skin fissures. Alternatives ruled out by confirmatory findings.",
+  "disease_name_short": "Crusted scabies"
+}

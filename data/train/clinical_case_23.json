@@ -1,0 +1,13 @@
+{
+  "patient_information": "31-year-old HIV-positive male, diagnosed 6 years ago, not on ART or co-trimoxazole prophylaxis, CD4 280/μL 1 month ago, lives with male partner, no recreational drug use, never smoked.",
+  "chief_complaint": "Increasing shortness of breath on exertion, dry cough, drenching night sweats for 6 weeks.",
+  "history_of_present_illness": "6-week history of increasing shortness of breath on exertion, dry cough, drenching night sweats. General fatigue, weight loss 10kg over past 5 months. Extensive business travel in past 6 months to Europe, China, Korea, Japan, Singapore, United States. No other significant past medical history.",
+  "exposure_and_epidemiology": "Extensive international travel for business. HIV-positive, not on treatment.",
+  "vitals": "Temperature 39.2°C (102.6°F), blood pressure 120/70 mmHg, pulse 100 bpm, respiratory rate 26 breaths per minute, oxygen saturation 87% on air, 97% on 15L O2.",
+  "physical_exam": "Alert, short of breath at rest but able to complete sentences. Chest clear on auscultation. Rest of physical examination unremarkable.",
+  "labs_and_diagnostics": "Arterial blood gases on air: pH 7.44, PaO2 7.6 kPa, PaCO2 3 kPa, HCO3 19 mmol/L, base excess -3.8 mmol/L, lactate 1.6 mmol/L. FBC normal. CRP 6.7 mg/dL. Creatinine, urea, bilirubin, ALT, AP, albumin normal. CD4 150/μL, HIV viral load 1,500,000 copies/mL (fully sensitive). Chest radiograph shows bilateral perihilar infiltrates. Induced sputum negative for acid-fast bacilli, positive for Pneumocystis jirovecii on PCR.",
+  "differential_diagnosis": "Pneumocystis jirovecii pneumonia (PCP) supported by HIV, low CD4, subacute onset, hypoxia, bilateral infiltrates. Bacterial pneumonia, TB, fungal infections like histoplasmosis or cryptococcosis, viral infections like CMV, Kaposi sarcoma less likely.",
+  "management_and_clinical_course": "Admitted to negative pressure room. Started on high-dose co-trimoxazole, prednisolone for hypoxia. Improved over 10 days, discharged on co-trimoxazole prophylaxis and started ART.",
+  "final_diagnosis": "Pneumocystis jirovecii pneumonia, confirmed by PCR on induced sputum. Diagnosis aligns with HIV, low CD4, cough, SOB, night sweats, hypoxia, infiltrates. Alternatives ruled out by negative AFB and confirmatory PCR.",
+  "disease_name_short": "Pneumocystis pneumonia"
+}

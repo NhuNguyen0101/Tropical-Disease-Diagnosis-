@@ -1,0 +1,13 @@
+{
+  "patient_information": "67-year-old German woman, lived as expatriate in Cameroon for past 4 years, past medical history otherwise unremarkable.",
+  "chief_complaint": "Palpitations, transient subcutaneous swellings for past year.",
+  "history_of_present_illness": "Palpitations. Transient subcutaneous swellings for past year. No fever or constitutional symptoms. 24-hour ECG showed paroxysmal supraventricular extrasystoles. Echocardiography revealed minimal pericardial effusion.",
+  "exposure_and_epidemiology": "Expatriate in Cameroon, endemic for loiasis.",
+  "vitals": "Normal vital signs, afebrile.",
+  "physical_exam": "No visible subcutaneous swellings. Heart sounds clear and regular, no murmurs. No pathological findings.",
+  "labs_and_diagnostics": "WBC 6.20 x10^9/L, haemoglobin 13.8 g/dL, platelets 155 x10^9/L, neutrophils 45%, eosinophils 14% (absolute 0.868 x10^9/L), band neutrophils 1%, lymphocytes 36%, monocytes 4%, basophils 0%. Chest radiograph normal.",
+  "differential_diagnosis": "Filarial infection key given transient swellings, eosinophilia, Cameroon residence. Non-specific urticaria, Calabar swellings in loiasis, cysticercosis, larva currens in strongyloidiasis, Mansonella perstans. Acute schistosomiasis but afebrile, no urticaria. Gnathostomiasis, sparganosis more East Asia but some in Africa.",
+  "management_and_clinical_course": "Serology for filarial infections positive. Day-blood samples filtered and Giemsa stained revealed sheathed microfilariae with tapered tail characteristic for Loa loa, count 1400/mL. Treated with albendazole followed by ivermectin, tolerated well. Absolute eosinophil count returned to normal, microfilarial count declined. Palpitations settled. Follow-up echocardiography normal, pericardial effusion resolved, 24-hour ECG normal.",
+  "final_diagnosis": "Loiasis caused by Loa loa, confirmed by microscopy showing characteristic microfilariae. Diagnosis aligns with transient swellings, eosinophilia, cardiac arrhythmia, endemic area. Alternatives ruled out by confirmatory microscopy.",
+  "disease_name_short": "Loiasis"
+}

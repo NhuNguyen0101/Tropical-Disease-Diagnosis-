@@ -1,0 +1,13 @@
+{
+  "patient_information": "23-year-old male farmer from central Myanmar with no reported comorbidities or immunosuppression. No vaccination or allergy information stated.",
+  "chief_complaint": "Left-sided scrotal swelling for 3 years.",
+  "history_of_present_illness": "The swelling is non-tender and has gradually increased in size. The patient attempted treatment with traditional herbal medicine without success. No history of fever reported.",
+  "exposure_and_epidemiology": "From central Myanmar where scrotal swelling is reported as not uncommon. No specific travel, animal, water/food risks, or sick contacts mentioned.",
+  "vitals": "Vital signs normal, afebrile.",
+  "physical_exam": "Fair general condition with unilateral scrotal swelling that cannot be reduced. No palpable inguinal lymph nodes.",
+  "labs_and_diagnostics": null,
+  "differential_diagnosis": "Inguinal hernia and hydrocoele as common causes of chronic non-tender unilateral scrotal swelling. Testicular tumour considered but less likely. Lymphatic filariasis due to Wuchereria bancrofti suggested by regional prevalence. Urogenital schistosomiasis unlikely as not endemic in South-east Asia. Testicular tuberculosis less likely given long duration without other signs.",
+  "management_and_clinical_course": "Ultrasound planned to differentiate hydrocoele, hernia, or tumour. Diethylcarbamazine and albendazole started empirically for suspected lymphatic filariasis. After 6 months, swelling reduced significantly, confirmed as hydrocoele with filarial dance sign on ultrasound.",
+  "final_diagnosis": "Lymphatic filariasis caused by Wuchereria bancrofti, suspected due to chronic scrotal swelling and regional prevalence, with hydrocoele confirmed by ultrasound showing filarial dance sign and response to diethylcarbamazine. Hernia and tumour ruled out by imaging and clinical course.",
+  "disease_name_short": "Lymphatic filariasis"
+}

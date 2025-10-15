@@ -1,0 +1,13 @@
+{
+  "patient_information": "35-year-old Malawian woman, HIV-positive, on antiretroviral therapy for 3 years. CD4 count unknown. No other comorbidities or immunosuppression reported.",
+  "chief_complaint": "Painful ocular tumour in the left eye for 8 months.",
+  "history_of_present_illness": "Symptoms began 8 months ago with a whitish lesion on the left eye conjunctiva. Non-specified eye drops prescribed at a health centre were ineffective. The lesion grew larger, turned reddish, and was treated with herbal eye drops by a traditional healer without improvement. The lesion continued to grow, causing pain and complete loss of vision in the left eye.",
+  "exposure_and_epidemiology": "From Malawi, a high HIV-prevalence area. No specific travel, vector, animal, water/food risks, or sick contacts mentioned.",
+  "vitals": "Afebrile, other vital signs not reported.",
+  "physical_exam": "Localized swelling of the left eyeball and orbit with incomplete lid closure. No light perception in the left eye, right eye visual acuity 6/6. Swollen left preauricular lymph nodes. Rest of physical examination unremarkable.",
+  "labs_and_diagnostics": "Biopsy confirmed ocular surface squamous neoplasia (OSSN). No other laboratory data reported.",
+  "differential_diagnosis": "Ocular surface squamous neoplasia (OSSN) most likely due to HIV status and conjunctival lesion progression. Pterygium, amelanotic naevus, or lipoma considered in early stages but unlikely given growth and pain. Malignant lesions like amelanotic melanoma, lymphoma, or adenocarcinoma possible but less likely without systemic features.",
+  "management_and_clinical_course": "Started on analgesics (nonsteroidal anti-inflammatory drugs). Extended exenteration of the left orbit performed. Post-surgical recovery uneventful, with no recurrence reported at follow-up.",
+  "final_diagnosis": "Ocular surface squamous neoplasia (OSSN) confirmed by biopsy, associated with HIV infection in a high-prevalence setting. The diagnosis aligns with the progressive conjunctival lesion, pain, and vision loss. Other differentials ruled out by biopsy and clinical course.",
+  "disease_name_short": "Ocular surface squamous neoplasia"
+}

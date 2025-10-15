@@ -1,0 +1,13 @@
+{
+  "patient_information": "29-year-old Malawian woman, housewife, married with four children. No past medical history or psychiatric disorders. HIV status unknown, no medication use, no alcohol or recreational drug use.",
+  "chief_complaint": "Confusion, restlessness, and irritability for 1 month, with watery diarrhoea for 1 week.",
+  "history_of_present_illness": "The patient has been confused, restless, and irritable for the past month, with watery diarrhoea starting 1 week ago. No fever reported. The skin rash has been present for 2 months according to relatives.",
+  "exposure_and_epidemiology": "From Malawi, during the rainy season in January. Lives in a grass-thatched mud-hut, collects water from a borehole, no electricity. Eats two meals a day of maize porridge with few vegetables, rarely fish or meat. Husband works as a farmhand on a local chicken farm.",
+  "vitals": "Glasgow Coma Scale 14/15 (confusion), remaining vital signs normal, afebrile.",
+  "physical_exam": "Slim but not wasted. Pale conjunctivae. Noticeable hyperpigmented, dry, and scaly skin rash around the neck, forearms, hands, and feet, clearly demarcated. No neck stiffness.",
+  "labs_and_diagnostics": "HIV positive, CD4 count 150/μL. Serum vitamin B12 120 pmol/L (reference 200–900 pmol/L), folate 3.5 nmol/L (reference 7–40 nmol/L). Stool negative for ova, cysts, or pathogens.",
+  "differential_diagnosis": "Pellagra due to vitamin B3 deficiency, suggested by dermatitis, diarrhoea, and dementia in a setting of poor diet. HIV-related opportunistic infection considered due to immunosuppression. Chronic diarrhoea from parasitic infection like giardiasis or cryptosporidiosis, but less likely with negative stool tests.",
+  "management_and_clinical_course": "Started on oral niacin 300 mg/day and multivitamins including B-complex. HIV counselling and antiretroviral therapy planned. Diarrhoea resolved within 1 week, skin improved over 4 weeks, confusion cleared after 3 weeks. Discharged with outpatient follow-up.",
+  "final_diagnosis": "Pellagra caused by niacin deficiency, diagnosed clinically by the triad of dermatitis, diarrhoea, and dementia in a context of poor diet and confirmed by response to niacin supplementation. HIV-related conditions less likely as primary cause given nutritional basis and improvement with treatment.",
+  "disease_name_short": "Pellagra"
+}

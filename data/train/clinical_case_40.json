@@ -1,0 +1,13 @@
+{
+  "patient_information": "62-year-old woman from rural Ethiopia, normally fit and well, very physically active working on her smallholding. No reported comorbidities or immunosuppression. No vaccination or allergy information stated.",
+  "chief_complaint": "Difficulty chewing with stiffness of the mouth for 3 days.",
+  "history_of_present_illness": "The symptoms began 3 days after arriving in Europe to visit her daughter and meet her new grandchild. She described it as 'stiffness of the mouth' through her daughter, with no prior occurrence.",
+  "exposure_and_epidemiology": "From rural Ethiopia, likely unvaccinated due to age and region, with agricultural work as a risk factor. No specific travel beyond recent flight to Europe, no animal, water/food risks, or sick contacts mentioned.",
+  "vitals": "Pulse, blood pressure, and respiratory rate within normal limits.",
+  "physical_exam": "No abnormal findings on examination.",
+  "labs_and_diagnostics": "ESR normal, no other specific tests reported. Tetanus diagnosis clinical without laboratory confirmation.",
+  "differential_diagnosis": "Early tetanus suggested by agricultural background and lack of vaccination history. Giant cell arteritis considered due to age but less likely given no systemic symptoms or elevated ESR.",
+  "management_and_clinical_course": "Received metronidazole and antitoxin on day 1. Developed generalized spasms on day 2, treated with diazepam and intrathecal antitoxin, with prophylactic tracheotomy. Spasms increased over 5 days, developed dysphagia, then stabilized after 7 days without ventilation. Slow recovery over 3 weeks, with residual stiffness at 3-month follow-up.",
+  "final_diagnosis": "Tetanus caused by Clostridium tetani, diagnosed clinically by trismus progressing to generalized spasms, consistent with unvaccinated status and agricultural exposure. Giant cell arteritis ruled out by normal ESR and clinical course.",
+  "disease_name_short": "Tetanus"
+}

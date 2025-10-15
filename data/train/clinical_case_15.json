@@ -1,0 +1,13 @@
+{
+  "patient_information": "3-year-old male rural Lao boy, developing normally, up to date with vaccinations. Parents are rice farmers. No comorbidities or immunosuppression reported.",
+  "chief_complaint": "Gradual painful swelling of the right cheek with fever and poor appetite for 10 days.",
+  "history_of_present_illness": "Gradual painful swelling of right cheek with fever and poor appetite for 10 days. Three days previously purulent discharge from the ear. No cough, vomiting or diarrhoea. No previous ear infection or dental problems, no known trauma.",
+  "exposure_and_epidemiology": "Rural Laos, rice farming family, frequent exposure to soil and water in paddy fields. Endemic area for melioidosis.",
+  "vitals": "Temperature 39.5°C (103.1°F).",
+  "physical_exam": "Looks unwell. Localized fluctuant hot tender swelling below and anterior to right ear, 6-8 cm diameter, extending from lower cheek to submandibular region, consistent with parotid mass. Purulent discharge in auditory canal, suspicion of small fistula, right lower motor neuron facial nerve palsy. Oral cavity and throat unremarkable. No lymphadenopathy, no hepatosplenomegaly. Heart sounds normal, chest clear.",
+  "labs_and_diagnostics": "WBC 16.5 x10^9/L with 90% neutrophils, Hb 9.4 g/dL, other blood tests normal. Pus culture from ear and parotid abscess isolated Burkholderia pseudomallei. Blood culture negative. Chest radiography and abdominal ultrasound normal.",
+  "differential_diagnosis": "Acute suppurative unilateral parotitis usually bacterial: Staphylococcus aureus, Streptococcus pyogenes, Haemophilus influenzae. In neonates Gram-negative. In HIV Streptococcus pneumoniae. In endemic area Burkholderia pseudomallei (melioidosis). Actinomycosis, cat-scratch disease rare. Mumps non-suppurative, bilateral, vaccinated. Other viruses less suppurative. Granulomatous parotitis chronic painless. Salivary stones, malignancies rare in children.",
+  "management_and_clinical_course": "Incision and drainage of parotid with removal of copious pus. Intravenous ceftazidime for 10 days followed by oral co-amoxiclav for 16 weeks with good clinical response. No complications.",
+  "final_diagnosis": "Melioidosis caused by Burkholderia pseudomallei, confirmed by culture of pus from ear and abscess. Diagnosis aligns with suppurative parotitis, fever, endemic area, rice field exposure. Alternatives ruled out by confirmatory culture and negative blood culture.",
+  "disease_name_short": "Melioidosis"
+}

@@ -1,0 +1,13 @@
+{
+  "patient_information": "32-year-old Malawian woman with no reported comorbidities beyond newly diagnosed HIV. No vaccination or allergy information stated.",
+  "chief_complaint": "Headache and blurred vision for 3 weeks.",
+  "history_of_present_illness": "The headache was gradual in onset and unresponsive to over-the-counter painkillers. No fever, convulsions, or head trauma. She received presumptive antimalarial treatment (artemether/lumefantrine) and amoxicillin 500 mg three times daily for 5 days without benefit.",
+  "exposure_and_epidemiology": "From Malawi, a high HIV-prevalence area in sub-Saharan Africa. No specific travel, vector, animal, water/food risks, or sick contacts mentioned.",
+  "vitals": "All vital signs normal, afebrile.",
+  "physical_exam": "Wasted and slightly anaemic. GCS 15/15, no neck stiffness. Visual acuity normal bilaterally, but abduction deficit of the left eye on left lateral gaze with reported blurring of vision.",
+  "labs_and_diagnostics": "WBC 3.7 ×10^9/L, haemoglobin 10.2 g/dL, MCV 92 fL, platelets 91 ×10^9/L, fasting blood glucose 5.43 mmol/L, malaria RDT negative. HIV positive, CD4 count 22/μL. CSF: leukocytes 18 cells/μL, protein 0.8 g/L, glucose 1.97 mmol/L, India Ink negative, culture positive for Cryptococcus neoformans. Opening pressure 50 cmH2O.",
+  "differential_diagnosis": "Cryptococcal meningitis and tuberculous meningitis, primary due to chronic presentation and immunosuppression. Partially treated bacterial meningitis less likely given gradual onset. Malaria unlikely with negative RDT, no fever, and prior treatment.",
+  "management_and_clinical_course": "Lumbar puncture performed, started on oral fluconazole 1200 mg due to unavailability of amphotericin B and flucytosine. Co-trimoxazole prophylaxis initiated. Repeated therapeutic lumbar punctures until headache settled. Antiretroviral therapy commenced 4 weeks into antifungal treatment. Patient returned to village but died 6 weeks later of unknown cause.",
+  "final_diagnosis": "Cryptococcal meningitis caused by Cryptococcus neoformans, confirmed by positive CSF culture. Supported by subacute headache, abducens palsy, raised intracranial pressure, and advanced HIV with low CD4 count. Tuberculous and bacterial meningitis less likely due to clinical features and confirmatory culture.",
+  "disease_name_short": "Cryptococcal meningitis"
+}

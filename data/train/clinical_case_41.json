@@ -1,0 +1,13 @@
+{
+  "patient_information": "7-year-old girl from a tropical region of West Africa with no reported comorbidities or immunosuppression. No vaccination or allergy information stated.",
+  "chief_complaint": "Itchy papule on the right hand progressing to two skin ulcers and wrist contracture over 3 months.",
+  "history_of_present_illness": "After an insect bite, the patient developed an itchy papule on the back of her right hand that enlarged over 3 months. A traditional healer prescribed herbal remedies, followed by diclofenac and dexamethasone at a local health post when the lesion ulcerated, with no effect. A second lesion appeared, and oxacillin was initiated without improvement. She became increasingly unable to use her right hand. No systemic symptoms reported.",
+  "exposure_and_epidemiology": "From a tropical region in West Africa, endemic for Buruli ulcer. Insect bite reported, but no specific animal, water/food risks, or sick contacts mentioned.",
+  "vitals": "Pulse 108 bpm, blood pressure 100/70 mmHg, temperature 37.9°C (100.2°F).",
+  "physical_exam": "Anxious but in good general condition. Right wrist held in 45° flexion and 20° abduction. Two skin ulcers: 3 × 3 cm on the back of the right hand with necrotic tissue, surrounded by hypo- and hyperpigmentation, lichenification, and desquamation; 0.5 × 1 cm on the medial right wrist. Ill-defined induration (12 × 8 cm) around ulcers with oedema from lower arm to fingers. A 0.5 × 0.5 cm nodule above the medial right elbow.",
+  "labs_and_diagnostics": "Ulcer smear positive for acid-fast bacilli. PCR confirmed Mycobacterium ulcerans. No other laboratory data reported.",
+  "differential_diagnosis": "Buruli ulcer due to Mycobacterium ulcerans, supported by endemic region, progressive ulcers, and joint contracture. Bacterial superinfection possible due to mild fever and pain. Other infectious causes like cutaneous leishmaniasis, fungal infections, or parasitic causes considered but less likely in this context. Non-infectious causes like trauma or malignancy unlikely without history or systemic signs.",
+  "management_and_clinical_course": "Started on rifampicin and clarithromycin for 8 weeks. Surgical debridement performed for necrotic tissue. Physiotherapy initiated for wrist contracture. Ulcers healed after 3 months, with partial improvement in wrist mobility.",
+  "final_diagnosis": "Buruli ulcer caused by Mycobacterium ulcerans, confirmed by positive ulcer smear for acid-fast bacilli and PCR, consistent with progressive cutaneous ulcers and contracture in an endemic West African region. Other infectious and non-infectious causes ruled out by clinical presentation and confirmatory tests.",
+  "disease_name_short": "Buruli ulcer"
+}

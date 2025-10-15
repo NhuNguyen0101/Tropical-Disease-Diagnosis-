@@ -1,0 +1,13 @@
+{
+  "patient_information": "29-year-old male, previously well.",
+  "chief_complaint": "Painful sores involving private parts for 7 days.",
+  "history_of_present_illness": "Had unprotected sex with a commercial sex worker 2 weeks ago.",
+  "exposure_and_epidemiology": "Resides in The Gambia, recent unprotected sexual contact with commercial sex worker.",
+  "vitals": "Afebrile.",
+  "physical_exam": "Well nourished, in considerable pain, difficulty walking due to sores. Numerous painful ulcers on penis, scrotum and inner thigh, tender, soft, bleed on contact. No inguinal lymphadenopathy. General examination unremarkable.",
+  "labs_and_diagnostics": null,
+  "differential_diagnosis": "Herpes simplex, syphilis, chancroid. Herpes ulcers self-limiting in immunocompetent, severe in immunocompromised. Syphilis ulcers usually painless, single, painless adenopathy. Chancroid ulcers multiple, painful, painful adenopathy in 50%. Clinical diagnosis unreliable.",
+  "management_and_clinical_course": "Treat syndromically for syphilis with single dose IM benzathine penicillin 2.4 million units, for chancroid with single dose azithromycin 1g PO or ciprofloxacin 500mg bid for 3 days or erythromycin 500mg qds for 7 days. If HIV-positive, add aciclovir 400mg tds for 7 days. Test for HIV and start antiretroviral treatment if positive. Serology for syphilis to guide treatment for future contacts.",
+  "final_diagnosis": null,
+  "disease_name_short": null
+}

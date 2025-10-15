@@ -1,0 +1,13 @@
+{
+  "patient_information": "28-year-old male fisherman with history of untreated arterial hypertension for 2 years. HIV negative. No other comorbidities or immunosuppression reported.",
+  "chief_complaint": "Progressive shortness of breath over 5 days with orthopnoea and paroxysmal nocturnal dyspnoea.",
+  "history_of_present_illness": "Bilateral flank pain that is continuous and dull, constant nausea. No cough or fever. Medical and family history otherwise unremarkable.",
+  "exposure_and_epidemiology": "Fisherman from a town on the southern shore of Lake Malawi with regular contact with Schistosoma haematobium-infested water. No other specific exposures reported.",
+  "vitals": "Blood pressure 200/130 mmHg, pulse 66 bpm, temperature 36.8°C, respiratory rate 32 cycles per minute.",
+  "physical_exam": "In respiratory distress, pale conjunctivae. Apex beat slightly displaced, heart sounds clear and regular, jugular venous pressure not raised. Bilateral fine crackles over lung bases. Abdomen flat and non-tender, bilateral renal angle tenderness, kidneys ballottable. No peripheral oedema. Later developed pericardial friction rub.",
+  "labs_and_diagnostics": "WBC 3.8 x10^9/L, haemoglobin 6.0 g/dL, MCV 92 fL, platelets 187 x10^9/L, creatinine 1200 μmol/L, BUN 89.3 mmol/L, K+ 7.2 mmol/L. Ultrasound showed bilateral hydronephrosis with massive dilatation of renal pelvis and calyces, thin remaining renal parenchyma. Cystoscopy revealed hyperaemic mucosa with multiple sandy patches suggestive of granulomatous lesions; no tumour seen. No histology available.",
+  "differential_diagnosis": "Combined left ventricular heart failure and renal failure, with enlarged kidneys suggesting primary renal pathology or post-renal obstruction like hydronephrosis from chronic schistosomiasis. Hypertension-related renal compromise would typically show small kidneys. Polycystic kidneys possible but less likely given context.",
+  "management_and_clinical_course": "High doses of furosemide, glucose and insulin for hyperkalaemia. Remained oliguric. Deteriorated with drowsiness, vomiting, bradycardia, uraemic pericarditis. Bilateral percutaneous nephrostomy and peritoneal dialysis started. Improved rapidly, discharged on PD. Readmitted two months later with fever and abdominal pain, treated for suspected bacterial peritonitis, but died 3 weeks later.",
+  "final_diagnosis": "Urogenital schistosomiasis caused by Schistosoma haematobium, diagnosed endoscopically with sandy patches and hyperaemia, leading to obstructive uropathy, hydronephrosis, and end-stage renal disease. Supported by ultrasound findings and occupational exposure. Alternatives ruled out by imaging and cystoscopy.",
+  "disease_name_short": "Genitourinary schistosomiasis"
+}

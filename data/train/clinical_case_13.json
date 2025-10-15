@@ -1,0 +1,13 @@
+{
+  "patient_information": "16-year-old female Malawian, delivered a baby 5 months ago, HIV test negative in antenatal clinic, past medical history unremarkable. Lives with parents, three siblings and baby in urban high-density area, no running water or electricity, fetch water from community tap. Went to primary school but dropped out during pregnancy.",
+  "chief_complaint": "Fever, generalized abdominal pain and frontal headache for 5 days.",
+  "history_of_present_illness": "Fever, generalized abdominal pain and frontal headache for the past 5 days.",
+  "exposure_and_epidemiology": "Lives in urban high-density area in Malawi. No running water or electricity, fetch water from community tap. Malaria-endemic area. Semi-immune population.",
+  "vitals": "Temperature 38.1°C (100.6°F), blood pressure 110/60 mmHg, pulse 78 bpm, respiratory rate 20 cycles per minute, Glasgow Coma Scale 15/15.",
+  "physical_exam": "Fair nutritional state. Mild scleral jaundice, no neck stiffness. Diffuse abdominal tenderness but no guarding. Liver not enlarged, spleen palpable 2cm below left costal margin. Chest clear, no lymphadenopathy. Pelvic examination unremarkable, no vaginal discharge.",
+  "labs_and_diagnostics": "WBC 3.2 x10^9/L, haemoglobin 10.9 g/dL, MCV 90 fL, platelets 164 x10^9/L, creatinine 71 μmol/L. Blood film for malaria parasites positive with low parasitaemia. Liver function tests not available due to reagents out of stock.",
+  "differential_diagnosis": "Malaria could explain most signs and symptoms, even though abdominal pain unusual. In malaria-endemic area low parasitaemia common and often subclinical. Malaria with severe anaemia predisposes to Gram-negative bacteraemia and sepsis. Enteric fever (typhoid or paratyphoid) to consider given abdominal tenderness, splenomegaly, frontal headache, relative bradycardia. Mild jaundice in enteric fever may be caused by hepatitis, cholangitis, cholecystitis or haemolysis.",
+  "management_and_clinical_course": "Admitted and started on oral quinine for malaria and ciprofloxacin for possible typhoid fever. Blood culture grew Salmonella Typhi sensitive to ciprofloxacin. She improved and was discharged after 7 days.",
+  "final_diagnosis": "Typhoid fever caused by Salmonella Typhi, confirmed by positive blood culture. The diagnosis aligns with fever, abdominal pain, headache, mild jaundice, splenomegaly, and low malaria parasitaemia in endemic area. Malaria was less likely due to low parasitaemia and subclinical nature in semi-immune.",
+  "disease_name_short": "Typhoid fever"
+}

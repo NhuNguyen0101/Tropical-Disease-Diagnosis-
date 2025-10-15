@@ -1,0 +1,13 @@
+{
+  "patient_information": "22-year-old female with no reported comorbidities or immunosuppression.",
+  "chief_complaint": "Passing 12 to 15 large-volume stools in the past day, became unresponsive about an hour previously.",
+  "history_of_present_illness": "Passing 12 to 15 large-volume stools resembling diluted milk or rice water with white flakes. No pain, no fever.",
+  "exposure_and_epidemiology": "From Ashulia near Dhaka, Bangladesh. Recently attended a religious festival where water was supplied in large metal containers. Five or six people who attended the same event also ill with diarrhoea. Inadequate environmental management, peri-urban areas with limited sanitation.",
+  "vitals": "Afebrile, pulse rate 110 bpm low volume, blood pressure 90/50 mmHg, Glasgow Coma Scale 9/15.",
+  "physical_exam": "Thin young woman, stuporous, responds minimally to painful stimulus. Sunken eyes, dry mouth, scaphoid abdomen. Skin pinch returns very slowly. Remainder of systemic examination normal.",
+  "labs_and_diagnostics": "Sodium 143.8 mmol/L, potassium 3.0 mmol/L, chloride 103.8 mmol/L, bicarbonate 11.4 mmol/L, lactic acid 4.1 mmol/L, creatinine 203 μmol/L, blood urea nitrogen 8.6 mmol/L. Stool macroscopic: liquid, rice-water appearance with no faecal matter. Hanging drop preparation shows small slender curved bacilli with darting motility, inhibited by Vibrio cholerae antiserum O1. Stool culture grows V. cholerae O1, Serotype Ogawa, biotype El Tor.",
+  "differential_diagnosis": "Acute watery diarrhoea with severe dehydration suggests cholera, especially in epidemic setting with multiple cases. Other causes of severe diarrhoea less likely given rice-water stools, no fever, no pain.",
+  "management_and_clinical_course": "Admitted immediately, started on intravenous rehydration with Ringer’s lactate 3L in first hour, pulse and BP improved. Additional 2L over next 3 hours, became alert. Then oral rehydration, single dose 300mg doxycycline. Discharged on third day with normal stool. Local health authorities identified 44 additional cases, treated, health education, chlorinated tanks.",
+  "final_diagnosis": "Cholera due to Vibrio cholerae O1 El Tor, confirmed by stool culture and serotyping. Diagnosis supported by profuse watery diarrhoea, severe dehydration, electrolyte derangement, and outbreak context. Alternatives ruled out by confirmatory microbiology.",
+  "disease_name_short": "Cholera"
+}

@@ -1,0 +1,13 @@
+{
+  "patient_information": "7-year-old girl from South Sudan, no reported comorbidities or immunosuppression. No vaccination or allergy information stated.",
+  "chief_complaint": "Undulating fever for 4 weeks.",
+  "history_of_present_illness": "The fever occurs mainly in the afternoon with chills and occasional convulsions. Initially, she was fine between episodes and played normally, but developed progressive anorexia, dry cough, chest pain, joint, and back pain. Unspecified tablets from another clinic provided no improvement.",
+  "exposure_and_epidemiology": "From South Sudan, a region endemic for visceral leishmaniasis and malaria. No specific travel, vector, animal, water/food risks, or sick contacts mentioned.",
+  "vitals": "Temperature 39.6°C (103.3°F), pulse 96 bpm, blood pressure 100/60 mmHg.",
+  "physical_exam": "Alert, pale, not jaundiced, severely malnourished (Z-score <3). Chest clear, normal heart sounds, soft abdomen with splenomegaly 4 cm below left costal margin. Multiple enlarged lymph nodes (1 cm) in cervical, axillary, inguinal, and epitrochlear regions. No skin lesions or peripheral oedema.",
+  "labs_and_diagnostics": "WBC 1.35 ×10^9/L, haemoglobin 6.8 g/dL, platelets 98 ×10^9/L. Plasmodium falciparum RDT and blood film negative. Brucella IgG and IgM serology negative. Visceral leishmaniasis rK39-antibody RDT negative. Bone marrow aspirate showed Leishmania amastigotes.",
+  "differential_diagnosis": "Visceral leishmaniasis due to Leishmania donovani, suggested by chronic fever, splenomegaly, and lymphadenopathy in an endemic area. Tuberculosis and HIV infection considered for similar symptoms. Brucellosis possible but less likely with negative serology. Malaria unlikely with negative tests and chronic course. Hyperreactive malarial splenomegaly syndrome unlikely without fever or lymphadenopathy.",
+  "management_and_clinical_course": "Started on sodium stibogluconate and paromomycin for visceral leishmaniasis. Nutritional support provided for severe malnutrition. Fever resolved after 2 weeks, lymphadenopathy and splenomegaly improved. Discharged after 4 weeks with outpatient follow-up.",
+  "final_diagnosis": "Visceral leishmaniasis caused by Leishmania donovani, confirmed by bone marrow aspirate showing amastigotes. The diagnosis aligns with chronic fever, splenomegaly, pancytopenia, and lymphadenopathy in an endemic area. Malaria, brucellosis, and tuberculosis ruled out by negative tests and clinical response.",
+  "disease_name_short": "Visceral leishmaniasis"
+}

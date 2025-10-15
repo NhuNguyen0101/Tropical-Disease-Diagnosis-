@@ -1,0 +1,13 @@
+{
+  "patient_information": "35-year-old Caucasian male postal worker, past medical history unremarkable.",
+  "chief_complaint": "Fatigue and a rash on his neck that started as a papule 2 days earlier.",
+  "history_of_present_illness": "Lesion non-pruritic but associated with significant non-painful swelling and pressure sensation in neck. No fever but at least one episode of diaphoresis with mild confusion and headache. Break in skin at site of lesion 3 days before while shaving, no insect bite. No animal contact, no foreign travel within previous year. Presented 24 hours earlier with similar symptoms, blood cultures obtained, given one dose first-generation cephalosporin, discharged on 10-day oral course. Returns with worsening malaise, neck swelling, mild difficulty breathing.",
+  "exposure_and_epidemiology": "Postal worker by profession. No animal contact, no foreign travel.",
+  "vitals": "Temperature 36.9°C (98.4°F), pulse 118 bpm, blood pressure 138/90 mmHg, respiratory rate 20 cycles per minute.",
+  "physical_exam": "2cm irregularly shaped indurated non-tender patch on left anterior neck with mild overlying erythema, several 2-3mm vesicles, 6mm shallow ulceration. Massive neck oedema, neck circumference increased from 57cm to 81cm. Remainder of initial physical examination normal.",
+  "labs_and_diagnostics": "Full blood count, Na+, K+, Cl-, HCO3, BUN, creatinine, random glucose normal except mildly elevated haemoglobin 18.7 g/dL.",
+  "differential_diagnosis": "Distinguishing features: papulovesicular lesion with massive oedema, non-painful, no fever but diaphoresis, worsening despite cephalosporin. Cutaneous anthrax supported by lesion evolution, oedema, postal worker occupation (bioterrorism context). Other differentials include spider bite, carbuncle, but lack of pain and massive oedema atypical.",
+  "management_and_clinical_course": "Admitted, treated with intravenous ciprofloxacin and clindamycin. Blood cultures from first visit grew Bacillus anthracis. Improved, discharged on oral antibiotics.",
+  "final_diagnosis": "Cutaneous anthrax caused by Bacillus anthracis, confirmed by blood cultures. Diagnosis aligns with lesion, oedema, diaphoresis, confusion, in postal worker during 2001 anthrax attacks. Alternatives ruled out by confirmatory culture.",
+  "disease_name_short": "Cutaneous anthrax"
+}

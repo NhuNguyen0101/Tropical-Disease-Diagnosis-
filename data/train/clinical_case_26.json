@@ -1,0 +1,13 @@
+{
+  "patient_information": "14-year-old Malawian boy, no comorbidities or immunosuppression reported.",
+  "chief_complaint": "Extensive necrotic wound on right foot.",
+  "history_of_present_illness": "Three weeks earlier bitten by snake while playing on path through rocky grassland to maize field. Snake brown with V-shaped black bands, approximately one metre long, hissed loudly but did not move away. Did not realize bite. Shortly after haemorrhagic bullae on right leg, gums started to bleed, vomited extensively. Taken to traditional healer, bleeding and vomiting settled, but developed intense pain and swelling at bite site.",
+  "exposure_and_epidemiology": "Rural Malawi, snake bite while playing in grassland.",
+  "vitals": "Temperature 39.4°C, pulse 126 bpm, blood pressure 85/60 mmHg, respiratory rate 30 cycles per minute.",
+  "physical_exam": "Appears weak, in respiratory distress. Extensive foul-smelling necrosis affecting right foot and ankle, tendons exposed. Right lower leg swollen, unable to bend right ankle. Inguinal lymph nodes enlarged on right. Urine clear, no signs of bleeding. Fundoscopy normal.",
+  "labs_and_diagnostics": "20-minute whole blood clotting test normal. WBC 19 x10^9/L, haemoglobin 9.5 g/dL, platelets 60 x10^9/L, K+ 4.2 mmol/L.",
+  "differential_diagnosis": "African puff-adder (Bitis arietans) most likely given description, aggressive behavior, symptoms of local swelling, necrosis, systemic haemorrhage. Saw-scaled viper (Echis species) similar symptoms.",
+  "management_and_clinical_course": "Too late for antivenom. Managed as sepsis: early broad-spectrum antibiotics, ventilatory support, fluid resuscitation, tetanus prophylaxis. Surgical: several debridements, mesh-grafting successful. No severe local complications. Discharged several weeks later with some functional impairment of right foot, booked for outpatient physiotherapy.",
+  "final_diagnosis": "Snake bite by African puff-adder (Bitis arietans), diagnosed clinically by snake description and symptoms. Aligns with massive local swelling, necrosis, hypovolaemic shock, haemorrhage.",
+  "disease_name_short": "Snake bite"
+}

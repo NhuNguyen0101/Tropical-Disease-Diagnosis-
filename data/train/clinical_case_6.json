@@ -1,0 +1,13 @@
+{
+  "patient_information": "36-year-old male restaurant owner, married, no reported comorbidities or immunosuppression. No vaccination or allergy information stated.",
+  "chief_complaint": "Mobile itchy mass under the skin for 3 weeks.",
+  "history_of_present_illness": "Three weeks ago, noted mass in groin for 4 days which subsided, then itchy serpiginous rash tracking from groin to chest which moved over several days and disappeared, then mass reappeared on right shoulder. No fever or systemic illness. Denies sexual contact on trip.",
+  "exposure_and_epidemiology": "Returned 5 weeks ago from fishing holiday in Okavango Delta, Botswana with four friends. Slept under mosquito net, swam in fresh river water, ate freshwater fish from the river including raw sushi. Two friends have the same complaint. Occupation as restaurant owner.",
+  "vitals": "Afebrile; other vital signs not reported.",
+  "physical_exam": "Organ system examination normal. Firm mass with clear margins 3x8 cm on right upper deltoid, which has migrated across upper chest wall with visible serpiginous tract. No additional rash or lymphadenopathy.",
+  "labs_and_diagnostics": "Total white cell count 8.9 x10^9/L, eosinophil count 0.9 x10^9/L, liver function tests, creatinine and electrolytes normal. HIV antibodies negative. Serology for Gnathostoma negative. Larva expressed and identified as Gnathostoma spinigerum.",
+  "differential_diagnosis": "Gnathostomiasis supported by migratory mass, eosinophilia, and raw fish consumption. Loa loa less likely as not endemic in area and longer incubation. Sparganosis rare, mainly in Asia. Creeping eruptions from hookworms or Strongyloides present with fine tracks not mass. Ectopic fascioliasis and migratory myiasis very rare.",
+  "management_and_clinical_course": "Started on albendazole 400mg bid for 21 days and ivermectin 200 μg/kg stat. Over 6 days, lesion migrated to forehead, face, and nose. On sixth day, expressed larva from nostril. Friends treated similarly with full resolution. For CNS infection, adjunctive corticosteroids beneficial.",
+  "final_diagnosis": "Cutaneous gnathostomiasis caused by Gnathostoma spinigerum, confirmed by identification of expressed larva. Diagnosis supported by migratory swellings, eosinophilia, and history of raw fish consumption in endemic area. Alternatives ruled out by clinical presentation and confirmatory identification.",
+  "disease_name_short": "Gnathostomiasis"
+}
