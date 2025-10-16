@@ -1,0 +1,13 @@
+{
+  "patient_information": "A 28-year-old West African man from Ghana.",
+  "chief_complaint": "Painful ulcer on his left ankle.",
+  "history_of_present_illness": "The ulcer has been present for the past 4 months and is not healing. No history of prior trauma. He had a previous ulcer on his right ankle some years ago which took about a year to heal. He also complains of pain in his right thigh and in both knees.",
+  "exposure_and_epidemiology": "Not mentioned",
+  "vitals": "Temperature 36.6°C, pulse 88 bpm, blood pressure 110/70mmHg.",
+  "physical_exam": "Patient is short for an adult, pale and has a tinge of jaundice. The ulcer is on his left ankle, next to the medial malleolus; the skin surrounding it is hyperpigmented. There is tenderness in both knee joints and in his right thigh. The rest of the physical examination is normal.",
+  "labs_and_diagnostics": "Initial visit:\n- WBC: 17.6 x 10^9/L (Reference: 4–10 x 10^9/L)\n- Haemoglobin: 6.9 g/dL (Reference: 13–15 g/dL)\n- Platelet: Adequate (Reference: 150–400 x 10^9/L)\n- Fasting blood glucose: 4.8 mmol/L (Reference: 4.4–6.1 mmol/L)\n- Blood film: Irreversibly sickled cells, polychromasia, target cells, nucleated red cells, adequate platelets.\n- Sickling test: Positive.\n- Haemoglobin electrophoresis: Homozygous HbSS-type.\n- Wound swab: Pseudomonas species sensitive to levofloxacin.\n- Radiography (left leg): Periosteal reaction with slightly sclerotic bones.\n\n6 years later:\n- WBC: 9.2 x 10^9/L\n- Haemoglobin: 8.3 g/dL\n- Platelet: 364 x 10^9/L\n- Fasting blood glucose: Not done.",
+  "differential_diagnosis": "Venous ulcer, haemolytic anaemia (haemoglobinopathies like thalassaemia and sickle cell disease, spherocytosis, pyruvate kinase deficiency), tropical ulcer, diabetic ulcer, chronic osteomyelitis with a discharging sinus, Buruli ulcer, other mycobacterial infections, pyoderma gangrenosum, malignant diseases.",
+  "management_and_clinical_course": "Managed with alternate daily wound dressing using normal saline irrigation and povidone-iodine. Systemic antibiotic treatment was given (due to Pseudomonas and poor condition). Strict bed rest was difficult to enforce. Recurrent bone pain was managed conservatively with good hydration, prompt treatment of infections, and relief of other identifiable precipitants of crises. Daily folic acid supplementation was provided. Pain relief was achieved with paracetamol and tramadol. On follow-up 3 years later, the ulcer was still not healed, with grafting under consideration. Six years later, the wound was still not healed, and the patient could not afford a skin graft. He had 3 times weekly dressing.",
+  "final_diagnosis": "Sickle cell disease with a chronic ankle ulcer.",
+  "disease_name_short": "Sickle Cell Disease"
+}

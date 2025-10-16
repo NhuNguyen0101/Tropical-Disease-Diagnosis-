@@ -1,0 +1,13 @@
+{
+  "patient_information": "A 31-year-old woman from Malawi. HIV positive (diagnosed 2 months prior) with a history of cryptococcal meningitis treated with high-dose oral fluconazole and then maintenance dose. Started antiretroviral treatment (stavudine, lamivudine, nevirapine) and co-trimoxazole prophylaxis 1 month prior. No known allergies.",
+  "chief_complaint": "Generalized skin rash.",
+  "history_of_present_illness": "Rash started 3 days prior on the trunk, spreading to extremities and mucosal membranes (lips, oral mucosa, conjunctivae, genital mucosa). Also productive cough with whitish sputum starting 1 day before the rash, and sore throat and dysuria for the past 2 days.",
+  "exposure_and_epidemiology": "Patient from Malawi. HIV-positive, placing her at higher risk for conditions like SJS/TEN, especially in a sub-Saharan African setting where incidence is significantly higher.",
+  "vitals": "Temperature: 37.7°C (99.9°F), Blood pressure: 120/68mmHg, Pulse: 90 bpm, Respiratory rate: 24 breath cycles per minute.",
+  "physical_exam": "Generalized, non-itchy maculopapular rash involving skin and mucous membranes, sparing palms and soles. Bilateral conjunctivitis. Eyelids and lips covered with haemorrhagic crusts. Lips swollen, making talking and eating difficult and painful. Chest clear.",
+  "labs_and_diagnostics": "Blood cultures and rapid malaria test were negative.",
+  "differential_diagnosis": "Staphylococcal scalded skin syndrome, toxic shock syndrome, exfoliative dermatitis, autoimmune bullous diseases, acute paraneoplastic pemphigus. Non-specific prodromal symptoms (cough, sore throat, fever, headache, myalgias) could be mistaken for bacterial/viral infection or malaria.",
+  "management_and_clinical_course": "Antiretroviral drugs (stavudine, lamivudine, nevirapine) and co-trimoxazole were immediately stopped on admission. Received IV fluids and a urinary catheter. Declined NG tube. Given 0.9% normal saline mouthwash and dexamethasone eye ointment. Fever and cough settled spontaneously. Discharged after 10 days in hospital. After complete lesion healing, started on new ARV combination with efavirenz replacing nevirapine. Co-trimoxazole was not replaced due to unavailability of alternatives. New regimen tolerated well without further rash.",
+  "final_diagnosis": "Stevens–Johnson syndrome (SJS)/toxic epidermal necrolysis.",
+  "disease_name_short": "SJS/TEN"
+}

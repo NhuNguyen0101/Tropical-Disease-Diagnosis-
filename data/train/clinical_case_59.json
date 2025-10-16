@@ -1,0 +1,13 @@
+{
+  "patient_information": "24-year-old Malawian businessman, recently diagnosed HIV-positive (one week prior) and not yet on ART. His wife is also HIV-positive and not on ART; two children (6 and 4 years old) not yet tested.",
+  "chief_complaint": "Dark spots/lesions on arm and leg (1 month, progressing), facial swelling, cough (3 months), and worsening shortness of breath (3 months). Main concern was shortness of breath.",
+  "history_of_present_illness": "Dark spots on arm and leg for 1 month, progressing, now with facial swelling. Three-month history of cough and worsening shortness of breath. Cough productive of white sputum. No constitutional symptoms (weight loss, fevers, night sweats) and no history of previous tuberculosis. Tested positive for HIV a week prior and has not started antiretroviral medication.",
+  "exposure_and_epidemiology": "From Malawi. Recently diagnosed HIV-positive, wife also HIV-positive and not on ART.",
+  "vitals": "Temperature: 36°C (96.8°F), Respiratory rate: 32 breath cycles/minute, Pulse: 102 bpm.",
+  "physical_exam": "Comfortable at rest with moderate facial oedema. Widespread dark-purplish plaques on skin and palate. Decreased air entry and dullness at the right lung base. Swelling of right leg from foot to knee with prominent coalescing dark plaques. Rest of physical examination normal.",
+  "labs_and_diagnostics": "HIV positive (diagnosed 1 week prior). CD4 count: 134 cells/μL, HB: 10.2 g/dL, MCV: 88.4 fL. Other parameters normal. Chest radiograph showed bilateral patchy opacifications in lower and mid lung zones, suggestive of peribronchovascular changes typical for pulmonary KS. Sputum and GeneXpert tests negative for tuberculosis. Bronchoscopy attempted but failed due to technical difficulties.",
+  "differential_diagnosis": "Tuberculosis (pulmonary TB), Kaposi’s sarcoma (cutaneous, mucosal, pulmonary involvement).",
+  "management_and_clinical_course": "Initial assessment included consideration for pulmonary tuberculosis (urine LAM, sputum microscopy for AFB, Xpert MTB/RIF, chest radiograph, bronchoscopy for endobronchial KS). Advised on general positive living, safe sexual practices, STI screening, and HIV testing for partner(s) and children. Initiated on antiretroviral therapy (ART) and palliative chemotherapy due to no improvement with a short course of oral antibiotics and suspected pulmonary KS. Referral made for ART and palliative chemotherapy. Small possibility of KS immune reconstitution inflammatory syndrome (IRIS) with ART initiation.",
+  "final_diagnosis": "Kaposi’s Sarcoma (cutaneous, mucosal, and pulmonary involvement) in the context of HIV infection.",
+  "disease_name_short": "Kaposi's Sarcoma"
+}

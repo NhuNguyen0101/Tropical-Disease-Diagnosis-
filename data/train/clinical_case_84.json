@@ -1,0 +1,13 @@
+{
+  "patient_information": "A 64-year-old Japanese man with a medical history of hypertension and right cerebellar infarction. Recent simple partial seizures were well controlled by an antiepileptic agent.",
+  "chief_complaint": "Generalized tonic-clonic seizures followed by weakness of the right lower extremity.",
+  "history_of_present_illness": "The patient was admitted due to generalized tonic-clonic seizures. Prior to this, recent simple partial seizures had been well controlled by antiepileptic agents.",
+  "exposure_and_epidemiology": "The probable infection route was through consumption of raw chicken meat, which the patient ate approximately once a month before the generalized seizure. Cerebral sparganosis cases are mainly reported from Asian countries, including Japan.",
+  "vitals": "Afebrile, GCS 15/15.",
+  "physical_exam": "Neurological examination did not reveal any abnormality on admission (beyond the seizure-related weakness).",
+  "labs_and_diagnostics": "Laboratory results showed no abnormalities, including no eosinophilia or leukocytosis. Head CT revealed a small high-density nodule with an enhanced perifocal low-density area in the left occipital lobe. MRI showed a ring-enhancing, tunnel-shaped lesion in the left occipital lobe (T1-weighted ring-shaped nodule with gadolinium enhancement, T2-weighted hyperintensity with adjacent ventricular dilation, post-contrast coronal and sagittal T1-weighted images demonstrated a tunnel-shaped enhancement, 'tunnel sign'). Angiography findings were normal except for right vertebral artery occlusion. Open surgery revealed a white, tape-like, live worm-like structure, measuring 1 to 3 mm in width and up to 12.5 cm in length at maximum extension with active movements, which was completely removed. Enzyme-linked immunosorbent assay (ELISA) results of serum and cerebrospinal fluid revealed strong positivity for Spirometra mansoni.",
+  "differential_diagnosis": "Brain tumours or metastases, neurocysticercosis, cerebral schistosomiasis, paragonimiasis. Also considered are cerebral toxoplasmosis, cerebral cryptococcomas, and tuberculomas (especially in immunocompromised patients), and HIV test for unclear CNS lesions.",
+  "management_and_clinical_course": "Open surgery with craniotomy was performed for complete removal of the live worm-like structure. After surgical removal of the worm, the patient was well without seizures at the most recent examination.",
+  "final_diagnosis": "Cerebral Sparganosis, confirmed by surgical removal and identification of the sparganum, and strong positivity for Spirometra mansoni via ELISA.",
+  "disease_name_short": "Cerebral Sparganosis"
+}

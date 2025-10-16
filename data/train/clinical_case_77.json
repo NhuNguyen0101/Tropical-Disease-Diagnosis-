@@ -1,0 +1,13 @@
+{
+  "patient_information": "51-year-old female Swiss traveller.",
+  "chief_complaint": "Generalized slightly pruritic maculopapular rash, non-purulent bilateral conjunctivitis, tender oedema of the hands, elbows, knees and feet, and generalized lymphadenopathy.",
+  "history_of_present_illness": "Presented 6 days after returning from a 2-week holiday to Guatemala and El Salvador. Four days after her return, the patient noticed a generalized slightly pruritic maculopapular rash on the face, trunk, and extremities. There was no fever and no other accompanying symptoms initially. On the next day, the rash worsened and a non-purulent bilateral conjunctivitis developed. The patient did not report any chronic underlying disease nor the intake of any medication.",
+  "exposure_and_epidemiology": "Recent 2-week holiday to Guatemala and El Salvador (Central America).",
+  "vitals": "Afebrile.",
+  "physical_exam": "Conjunctivitis, generalized maculopapular rash involving the face, tender oedema of the hands, elbows, knees and feet, and generalized lymphadenopathy (cervical, axillary, and inguinal).",
+  "labs_and_diagnostics": "Full blood count normal. CRP was 8 mg/L (elevated, normal <5). Creatinine was very mildly elevated (87 μmol/L, range 35–80 μmol/L). Liver function tests were normal. Rapid diagnostic tests for dengue and chikungunya were negative. Zika virus infection was confirmed by PCR (Zika RT-PCR positive on the first serum sample) and seroconversion (Zika IgM IIFT negative on the first sample, 1:640 positive on the second sample; Zika IgG IIFT 1:20 on the first sample, 1:5120 positive on the second sample). Dengue IgM IIFT and NS1-Ag were negative. Dengue IgG IIFT showed a rise (1:20 to 1:5120) but was interpreted as cross-reactivity. Chikungunya IgM and IgG tests were negative.",
+  "differential_diagnosis": "Arboviral infection, with dengue, chikungunya, and zika being the three most important considerations in Central and South America. The clinical presentation with skin rash, conjunctivitis, and peripheral oedema in an afebrile patient was highly suggestive of Zika virus infection.",
+  "management_and_clinical_course": "Initial rapid diagnostic tests for dengue and chikungunya were negative. Patient’s blood samples were sent to a reference laboratory for arboviruses, and Zika virus infection was confirmed by PCR and seroconversion. Management is supportive as arboviral infections are self-limiting with no specific treatment options.",
+  "final_diagnosis": "Zika virus infection.",
+  "disease_name_short": "Zika"
+}

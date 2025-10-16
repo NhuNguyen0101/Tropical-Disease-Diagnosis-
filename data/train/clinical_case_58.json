@@ -1,0 +1,13 @@
+{
+  "patient_information": "A 25-year-old woman from Bani Suwaif in Upper Egypt (115km south of Cairo).",
+  "chief_complaint": "Severe diarrhoea for 2 months accompanied by weight loss of about 15kg and amenorrhoea.",
+  "history_of_present_illness": "Symptoms started with stomach rumbles and colicky abdominal pain, followed by anorexia and vomiting. The diarrhoea is voluminous, not related to meals, occurs day and night (five to ten times in 24 hours). She received various antibiotics (including metronidazole) and antidiarrhoeal drugs without improvement. During the last month, she developed lower limb swelling and severe prostration.",
+  "exposure_and_epidemiology": "Resides in an endemic area (Upper Egypt). Capillariasis is transmitted through consumption of raw or undercooked fish.",
+  "vitals": "Afebrile, heart rate 100bpm, blood pressure 100/60mmHg.",
+  "physical_exam": "Generally unwell, pale, angular stomatitis, scaphoid abdomen with borborygmi, pitting oedema of the lower limbs, decreased skin turgor.",
+  "labs_and_diagnostics": "D-xylose test: evidence of malabsorption. Stool microscopy: numerous peanut-shaped helminth ova (typical for Capillaria philippinensis) detected. Laboratory results on admission: Potassium 2.8 mmol/L (low), Sodium 127 mmol/L (low), Calcium, total 2.1 mmol/L (low), Albumin 23 g/L (low), Haemoglobin 10.8 g/dL (low), WBC 6.6 x 10^9/L (normal), Eosinophil count 0.53 x 10^9/L (high, mild eosinophilia), Platelets 350 x 10^9/L (upper normal), Creatinine 115 μmol/L (high).",
+  "differential_diagnosis": "Not mentioned",
+  "management_and_clinical_course": "Admitted to hospital. Albendazole 400mg bd initiated and continued for 3 weeks. Oral and parenteral fluids and electrolytes given for resuscitation. Received a high protein diet and vitamins. During the first days of treatment, numerous adult helminths (length 3–5mm) were found in stool samples. General condition improved significantly within the first week, vomiting stopped. Diarrhoea subsided after 2 weeks of treatment.",
+  "final_diagnosis": "Intestinal Capillariasis caused by Capillaria philippinensis.",
+  "disease_name_short": "Intestinal Capillariasis"
+}

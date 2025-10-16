@@ -1,0 +1,13 @@
+{
+  "patient_information": "55-year-old woman, Turkish provenance, presented to a hospital in Germany.",
+  "chief_complaint": "Intermittent fever up to 39.5°C (103.1°F), night sweats, chest pain, and fatigue. Presented with Fever of Unknown Origin.",
+  "history_of_present_illness": "Patient visited relatives in Turkey several weeks prior. History of rheumatic fever in childhood and mechanical mitral and aortic valve replacement at ages 37 and 53 (St Jude Medical prostheses). After initial treatment for a presumed UTI, she developed increasing dyspnoea and congestive heart failure.",
+  "exposure_and_epidemiology": "Travel to Turkey several weeks prior to presentation.",
+  "vitals": "Blood pressure and heart rate within normal limits. Intermittent fever up to 39.5°C (103.1°F).",
+  "physical_exam": "Unremarkable prosthetic heart sounds, systolic grade 1 murmur over aortic area without radiation. Liver and spleen not enlarged. No palpable lymph nodes, haemorrhages, or petechiae.",
+  "labs_and_diagnostics": "Slight anaemia (Hb 11.5g/dL, reference >12g/dL). WBC, lymphocyte-neutrophil ratio, and platelet count within normal limits. C-reactive protein 15mg/dL (reference <0.5mg/dL). Serum creatinine and transaminases not elevated. Initial blood cultures negative. Urinary cultures yielded Enterobacteriaceae. Chest radiography showed no infiltrates. Transthoracic echocardiography demonstrated competent prosthetic valves. After 4 weeks, initial blood cultures grew Brucella melitensis biovar 2. Transoesophageal echocardiography revealed a large vegetation attached to the prosthetic mitral valve. Two months later, echocardiography showed an annular abscess cavity around the aortic prosthesis.",
+  "differential_diagnosis": "Urosepsis, Brucellosis, Tuberculosis, Q-fever, Infective endocarditis.",
+  "management_and_clinical_course": "Initially treated for urinary tract infection with co-trimoxazole, which led to fever settling and initial improvement, but then developed increasing dyspnoea and congestive heart failure. After diagnosis of Brucella endocarditis, treatment with rifampicin, doxycycline, and gentamicin was initiated, leading to rapid improvement and normal C-reactive protein after 6 weeks. Two months later, an annular abscess cavity was found around the aortic prosthesis while on oral rifampicin and doxycycline. Patient underwent a third thoracotomy for prostheses exchange, followed by complete and sustained recovery.",
+  "final_diagnosis": "Active Brucella endocarditis.",
+  "disease_name_short": "Brucellosis"
+}

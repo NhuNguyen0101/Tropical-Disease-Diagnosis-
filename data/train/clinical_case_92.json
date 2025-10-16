@@ -1,0 +1,13 @@
+{
+  "patient_information": "A 42-year-old German man, previously healthy, presenting to a hospital in Germany.",
+  "chief_complaint": "Fever, arthralgias, and retro-orbital pain for the past 6 days.",
+  "history_of_present_illness": "For the past 6 days, the patient has experienced a fever of up to 40°C (104°F), arthralgias, and retro-orbital pain. Symptoms began shortly before his return from a 10-week trip to Thailand.",
+  "exposure_and_epidemiology": "Returned from a 10-week trip to Thailand, where he spent 2 months on Little Koh Chang (an island in the Andaman Sea), followed by 5 days in Hua Hin (at the Gulf of Thailand) and another 5 days in Bangkok. He had not taken any antimalarial chemoprophylaxis.",
+  "vitals": "Temperature 39.1°C (102.4°F), BP 156/80 mmHg, pulse 106 bpm, respiratory rate 16 breaths/min, SpO2 95% on ambient air.",
+  "physical_exam": "GCS 15/15. No skin rash, no lymphadenopathy. Chest clear on auscultation. Abdominal examination showed no intercostal tenderness, no tenderness on palpation, and no organomegaly.",
+  "labs_and_diagnostics": "FBC showed thrombocytopenia of 81 x 10^9/L (reference: 150–300) and was otherwise normal. CRP 55 mg/L (reference: <5). AST 62 U/L (reference: 10–50 U/L), ALT 106 U/L (reference: 10–50). Dengue NS1 antigen test was negative. Rapid diagnostic test for malaria was negative. A thick blood film showed Plasmodium species trophozoites at a density of 920/μL. Initial thin film microscopy was inconclusive for species. Repeated malaria microscopy by a head parasitologist identified 2 parasite-infected erythrocytes with morphological characteristics compatible with Plasmodium malariae or P. knowlesi. Species-specific PCR subsequently confirmed a mono-infection with P. knowlesi.",
+  "differential_diagnosis": "Dengue fever, Chikungunya, Zika, Influenza, Acute HIV infection, Enteric fever (Typhoid/Paratyphoid fever), Malaria.",
+  "management_and_clinical_course": "Based on the negative rapid diagnostic test, non-falciparum malaria was suspected. The patient was admitted to the infectious diseases ward. Treatment was initiated with atovaquone/proguanil 250/100mg, 4 tablets once daily for 3 days. The patient rapidly recovered and was discharged on the fourth day.",
+  "final_diagnosis": "Plasmodium knowlesi malaria (Knowlesi malaria).",
+  "disease_name_short": "Knowlesi Malaria"
+}

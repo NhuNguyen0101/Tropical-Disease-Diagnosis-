@@ -1,0 +1,13 @@
+{
+  "patient_information": "A 24-year-old woman from rural Uganda.",
+  "chief_complaint": "5-day history of a febrile illness, presenting with fever and shock.",
+  "history_of_present_illness": "The illness started with fever, sore throat, and aching all over. She also developed abdominal pain and diarrhoea. She became increasingly unwell, very weak, and needed help to stand.",
+  "exposure_and_epidemiology": "Her husband died of a severe febrile illness 6 days before she became ill. He had worked in a local gold mine and had fallen ill about a week before his death. She had looked after him during his final illness at home.",
+  "vitals": "Blood pressure 85/65mmHg, pulse rate 105 bpm, temperature 38°C (100.4°F).",
+  "physical_exam": "Looks very unwell. Bilateral conjunctivitis. No rash, no lymphadenopathy. Heart sounds are normal. Chest is clear. Abdominal examination is normal.",
+  "labs_and_diagnostics": "Malaria slide showed a low level of parasitaemia with P. falciparum. A sample for Marburg and Ebola PCR was sent. Marburg virus PCR result was positive.",
+  "differential_diagnosis": "Malaria, typhoid fever, bacterial sepsis (including invasive meningococcal disease), severe viral infection (adenovirus, influenza), measles, Zika virus, viral haemorrhagic fever (VHF), Marburg virus disease (MVD).",
+  "management_and_clinical_course": "Presumed diagnosis of Marburg virus disease was made. Isolated in a side room with contact carried out wearing gloves. Treated with IV artesunate and then artemether/lumefantrine. Given empirical IV ceftriaxone and resuscitated with IV fluids. Remained very unwell for a few days, then started to improve. Kept in isolation for an additional 2 days post-recovery before discharge. Family members, close friends, and medical staff who had physical contact were monitored for temperature for 21 days.",
+  "final_diagnosis": "Marburg virus disease (MVD), confirmed by positive PCR.",
+  "disease_name_short": "Marburg virus disease (MVD)"
+}

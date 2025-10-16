@@ -1,0 +1,13 @@
+{
+  "patient_information": "A 4-year-old boy from rural Mozambique, HIV-negative.",
+  "chief_complaint": "Severe oedema and skin lesions.",
+  "history_of_present_illness": "Admitted 5 days prior to presentation with suspected nephrotic syndrome and started on furosemide and prednisolone, however, his oedema did not subside. Three weeks earlier, he had been treated for pneumonia at a health centre.",
+  "exposure_and_epidemiology": "From rural Mozambique. Kwashiorkor mainly occurs in areas where people live on a monotonous diet with a low protein-to-energy ratio (e.g., maize, cassava, bananas) and is uncommon where diets are supplemented by animal protein. Incidence peaks during the rainy season. Infections often precede the onset of the disease.",
+  "vitals": "Not mentioned.",
+  "physical_exam": "Miserable, refusing to eat, and apathetic with a puffy face and pitting oedema on the lower legs. His hair is brittle, sparse, and fair in colour. The skin is dry and hyperpigmented, peeling off like ‘flaky paint’ with ulcerative skin lesions, most prominently in the groins.",
+  "labs_and_diagnostics": "Albumin 2.2g/dL (reference range 3.0–5.2g/dL), haemoglobin 7g/dL (reference range 12–14g/dL). A urine dipstick test is recommended to check for protein to distinguish from nephrotic syndrome (Kwashiorkor rarely exceeds 1+ on a dipstick test, while nephrotic syndrome shows >4+ proteinuria).",
+  "differential_diagnosis": "Nephrotic syndrome (initially suspected, but later differentiated based on the presence of additional clinical features like skin and hair changes, apathy, and anticipated urine proteinuria levels).",
+  "management_and_clinical_course": "Initially started on furosemide and prednisolone without improvement. Admitted to the high dependency area of the nutrition ward and treated according to WHO guidelines for severe acute malnutrition with meticulously calculated amounts of feeds and close monitoring. Prophylactic antibiotics, monitoring of temperature and haemoglobin, and careful fluid replacement were part of the treatment. The skin in the groin and armpits became superinfected and was successfully treated with Gentian violet solution. Initially, the child did not tolerate 3-hourly feeds and required feeding through a nasogastric tube. By day 5 in the nutrition rehabilitation unit, he could eat by himself, and the oedema started to settle. He was discharged into the community feeding program at day 15.",
+  "final_diagnosis": "Kwashiorkor, a form of severe acute malnutrition characterized by hypoalbuminaemia and oedema.",
+  "disease_name_short": "Kwashiorkor"
+}

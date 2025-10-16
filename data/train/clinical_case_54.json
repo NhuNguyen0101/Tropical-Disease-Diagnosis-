@@ -1,0 +1,13 @@
+{
+  "patient_information": "A 52-year-old male safari tourist from Germany.",
+  "chief_complaint": "Fever for the past 2 days, night sweats, frontal headache, and a skin lesion on the left upper thigh.",
+  "history_of_present_illness": "The patient developed a fever, night sweats, and a frontal headache for the past 2 days. He did not have joint pains or a rash. Ten days prior, he returned from a 2-week holiday trip to South Africa, visiting Cape Town, travelling the Garden Route and through KwaZulu–Natal, and going on safari in Kruger Park and other game reserves. He did not take any antimalarial chemoprophylaxis. His past medical history is unremarkable.",
+  "exposure_and_epidemiology": "Returned 10 days ago from a 2-week holiday trip to South Africa, visiting Cape Town, Garden Route, KwaZulu–Natal, Kruger Park, and other game reserves. He did not take antimalarial chemoprophylaxis.",
+  "vitals": "Tympanic temperature 37.5°C (99.5°F) (after taking 1g of paracetamol), pulse 80bpm, blood pressure 130/70mmHg.",
+  "physical_exam": "Fair general condition. No jaundice; neck supple. Enlarged lymph nodes in the left groin. A small necrotic skin lesion (about 0.7cm in diameter) with surrounding inflammation, lymphangiitis, and lymphadenitis was noted on the left upper thigh.",
+  "labs_and_diagnostics": "Malaria rapid diagnostic test, thick film, and thin film for malaria all came back negative. PCR from the eschar scab and serology were mentioned as potential diagnostic tools for African tick-bite fever but not explicitly stated to be performed.",
+  "differential_diagnosis": "Malaria.",
+  "management_and_clinical_course": "The patient was prescribed doxycycline at 100mg bid PO for 1 week. The fever settled within the next few days, the lymphadenopathy subsided, and the eschar eventually healed after about 2 weeks.",
+  "final_diagnosis": "African tick-bite fever.",
+  "disease_name_short": "ATBF"
+}

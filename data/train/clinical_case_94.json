@@ -1,0 +1,13 @@
+{
+  "patient_information": "A 20-year-old woman from the Democratic Republic of the Congo, residing in a rural agricultural village. She is the mother of three children and has no relevant past medical history. She was born after the worldwide smallpox vaccination programs were stopped in the early 1980s.",
+  "chief_complaint": "Fever, malaise, headache, dry cough, swelling of the neck, and a disseminated vesiculopustular skin rash.",
+  "history_of_present_illness": "Symptoms began with fever, malaise, headache, dry cough, and neck swelling. Two days later, a disseminated skin rash appeared, starting on the face and spreading centrifugally over her body, including the palms, soles of her feet, and oral mucosa. The lesions evolved from initial macules to papules, then vesicles, and finally pustules. The oral mucosal lesions were painful, making drinking and eating difficult.",
+  "exposure_and_epidemiology": "Patient resides in a rural area of the Democratic Republic of the Congo, in a village where people live from agriculture. Monkeypox is endemic in rural regions of Central Africa.",
+  "vitals": "Temperature 38°C (100.4°F), pulse 110 beats per minute, blood pressure 105/82 mmHg.",
+  "physical_exam": "Disseminated, uniform, umbilicated vesiculopustular skin lesions, ranging from 0.5 to 1 cm in diameter, were present all over the body with a predilection for the face, hands, and feet. Generalized lymphadenopathy with prominent swelling of the cervical lymph nodes was noted. Examination of the lungs, heart, abdomen, and CNS was unremarkable.",
+  "labs_and_diagnostics": "WBC: 4.4 x 10^9/L (neutrophils: 73%, lymphocytes: 21%) (Reference: 4–10 x 10^9/L). Haemoglobin: 12.3 g/dL (Reference: 12–16 g/dL). ESR: 75 mm/h (Reference: <20 mm/h).",
+  "differential_diagnosis": "Poxvirus infection (particularly Monkeypox), Varicella (varicella zoster virus), Cowpox.",
+  "management_and_clinical_course": "Clinical management was exclusively supportive as no specific vaccine or treatment for monkeypox was available. The patient made an uneventful recovery, but with scarring from the skin lesions.",
+  "final_diagnosis": "Human Monkeypox.",
+  "disease_name_short": "Monkeypox"
+}

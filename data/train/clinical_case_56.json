@@ -1,0 +1,13 @@
+{
+  "patient_information": "21-year-old pregnant woman, 32 weeks gestation (first pregnancy), from The Gambia. No significant past medical history. Otherwise well.",
+  "chief_complaint": "Generalized, non-itchy rash.",
+  "history_of_present_illness": "Patient complained of a generalized, non-itchy rash for 5 days. She is 32 weeks pregnant with her first pregnancy and is otherwise well with no significant past medical history.",
+  "exposure_and_epidemiology": "Patient is from The Gambia.",
+  "vitals": "Not mentioned.",
+  "physical_exam": "Generalized macular rash involving the palms of both hands. Mouth is normal, no lymphadenopathy, not anaemic or jaundiced. General examination is unremarkable.",
+  "labs_and_diagnostics": "Not mentioned.",
+  "differential_diagnosis": "Syphilis (considered the most likely diagnosis given the rash characteristics).",
+  "management_and_clinical_course": "The patient was treated with a single intramuscular (IM) dose of benzathine penicillin. She made an uneventful recovery and delivered a normal infant at term. Due to treatment occurring after 28 weeks gestation, it was recommended that her infant receive a course of treatment for congenital syphilis (IM procaine penicillin 50000 units/kg daily for 10–14 days).",
+  "final_diagnosis": "Syphilis (secondary stage, based on clinical presentation).",
+  "disease_name_short": "Syphilis"
+}
